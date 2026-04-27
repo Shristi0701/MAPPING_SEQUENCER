@@ -1,0 +1,1093 @@
+{
+  "branches": {
+    "mock": {
+      "semesters": {
+        "1": {
+          "subjects": [
+            {
+              "cos": [
+                {
+                  "text": "Illustrate the flowchart and design analgorithm for a given problem and to develop C programs using operators"
+                },
+                {
+                  "text": "Develop conditional and iterativestatements to write C programs"
+                },
+                {
+                  "text": "Exercise user defined functions to solvereal time problems"
+                },
+                {
+                  "text": "Use Pointers toaccess arrays, strings and functions."
+                },
+                {
+                  "text": "Exercise user defined data typesincluding structures and unions and input and output files to solve problems"
+                },
+                {
+                  "text": "Develop conditional and iterativestatementsprograms"
+                },
+                {
+                  "text": "Exercise user defined functions to solvereal time problems"
+                },
+                {
+                  "text": "Develop programs using pointers, strings and arrays."
+                },
+                {
+                  "text": "Develop C programs using pointers andto allocate memory using dynamic memorymanagement functions."
+                },
+                {
+                  "text": "Exercise files concept to show input andoutput of files in C"
+                },
+                {
+                  "text": "Understand the concept of the algoritm to determine time and computational complexity, dynamic memory management."
+                },
+                {
+                  "text": "Solve the search probem in real scenario's."
+                },
+                {
+                  "text": "Understand the data like arrays, linked lists, stack and queues."
+                },
+                {
+                  "text": "Solve the problems in trees and graphs."
+                },
+                {
+                  "text": "Understand and implement the algorithms for sorting searching, delection and insertion."
+                },
+                {
+                  "text": "Express it in terms of predicates, quantifiers and logical connectives"
+                },
+                {
+                  "text": "Derive the solution using deductive logic and prove the solution based on logicalinference"
+                },
+                {
+                  "text": "Classify mathematical problem and its algebraicstructure"
+                },
+                {
+                  "text": "Evaluate Boolean functions and simplify expressions using the properties of Boolean algebra"
+                },
+                {
+                  "text": "Develop the given problem as graph networks and solve with techniques of graphtheory"
+                },
+                {
+                  "text": "Understand the concepts of Database Management System, DDL, DML and requirement design the databases using E R method for real life applications."
+                },
+                {
+                  "text": "Knowledge and understanding of Relational algebra, Structured Query Language and ability to generate queries for real life applications."
+                },
+                {
+                  "text": "Knowledge of relational Database design and Improve the database design by normalization and Familiar with the concepts of indexing methods including B tree, and hashing."
+                },
+                {
+                  "text": "Understanding the concepts of transaction-processing system, ACID (atomicity, consistency, isolation, and durability) properties and concurrency control mechanism."
+                },
+                {
+                  "text": "Knowledge of advanced topic in DBMS: object oriented, object relational database and various applications"
+                },
+                {
+                  "text": "Understand the working of logicgates."
+                },
+                {
+                  "text": "Understand the working of synchronous and asynchronous counters"
+                },
+                {
+                  "text": "Design and implement Combinational and Sequentiallogiccircuits."
+                },
+                {
+                  "text": "Understand the process of Analog to Digital conversion and Digital to Analog conversion."
+                },
+                {
+                  "text": "Use PLDs to implement the given logicalproblem."
+                },
+                {
+                  "text": "Developessentialprogrammingskillsincomputerprogrammingconceptslikedatatypes"
+                },
+                {
+                  "text": "Applythe basicsofprogramminginthePython language"
+                },
+                {
+                  "text": "Solvecodingtasksrelatedconditionalexecution,loops"
+                },
+                {
+                  "text": "Develop user defined function and standard modules in python programming."
+                },
+                {
+                  "text": "Solvecodingtasksrelatedtothefundamentalnotionsandtechniquesusedinobject-orientedprogramming."
+                },
+                {
+                  "text": "Ability to understand the concept of Constitution"
+                },
+                {
+                  "text": "Ability to understand the Role of Indian constitution."
+                },
+                {
+                  "text": "Overview of various Constitutional Rights and Duties"
+                },
+                {
+                  "text": "Ability to understand the Tri-Level Democratic arrangement."
+                },
+                {
+                  "text": "Ability to gather the knowledge regarding Administration and Election Commission."
+                },
+                {
+                  "text": "Develop programs using dynamic memory allocation and linked list ADT."
+                },
+                {
+                  "text": "Apply Stack and Queue to solve problems."
+                },
+                {
+                  "text": "Implement the concept of hashing in real time dictionaries."
+                },
+                {
+                  "text": "Identify and implement the suitable data structures for the given problem."
+                },
+                {
+                  "text": "Solve real world problems by finding minimum spanning tree and Shortest path algorithm."
+                },
+                {
+                  "text": "Understand, appreciate and effectively explain the concepts of database Technologies."
+                },
+                {
+                  "text": "Declare and enforce integrity constraints on a database using RDBMS."
+                },
+                {
+                  "text": "Devise a complex query using SQL DML/DDL commands."
+                },
+                {
+                  "text": "Create views and use in-built functions to query a database."
+                },
+                {
+                  "text": "Write PL/SQL programs including stored procedures, stored functions and triggers."
+                },
+                {
+                  "text": "Describe the basic concept of Number System and number Conversion."
+                },
+                {
+                  "text": "Implement different methods used for simplification of Boolean functions."
+                },
+                {
+                  "text": "Implement the concept of multiplexer"
+                },
+                {
+                  "text": "Implement and analyse the combinational circuits and Sequential circuits."
+                },
+                {
+                  "text": "Implement synchronous sequential circuits."
+                },
+                {
+                  "text": "Understand organizational issues and its impact on organization and employees."
+                },
+                {
+                  "text": "Identify industrial problems and suggest possible solutions."
+                },
+                {
+                  "text": "Relate, apply and adapt relevant knowledge, concepts and theories within an industrial organization, practice and ethics."
+                },
+                {
+                  "text": "Apply technical knowledge in an industry to solve real world problems."
+                },
+                {
+                  "text": "Demonstrate effective group communication, presentation, self-management and report writing skills."
+                },
+                {
+                  "text": "Run Python Programs at interactive and script mode."
+                },
+                {
+                  "text": "Implement Python programs with conditionals and loops."
+                },
+                {
+                  "text": "Develop Python programs stepwise by defining functions and calling them."
+                },
+                {
+                  "text": "Use Python lists, tuples and dictionaries for representing compound data."
+                },
+                {
+                  "text": "Read and write data from/to files in Python"
+                },
+                {
+                  "text": "Draw the functional block diagram of a single bus architecture of a computer and describe the function of the instruction execution cycle, RTL interpretation of instructions."
+                },
+                {
+                  "text": "Given a CPU organization and instruction, design a memory module and analyze its operation by interfacing with theCPU."
+                },
+                {
+                  "text": "Design the connection between I/O address from the CPU and the I/O interface."
+                },
+                {
+                  "text": "Understand the concept of Pipelining and multiprocessor."
+                },
+                {
+                  "text": "Draw a flowchart for concurrent access to memory and cache coherency in parallel processors."
+                },
+                {
+                  "text": "Create processes andthreads."
+                },
+                {
+                  "text": "Develop algorithms for process scheduling for a given specification of CPU utilization, Throughput, Turnaround Time, Waiting Time, ResponseTime."
+                },
+                {
+                  "text": "Develop the techniques for optimally allocating memory to processes by increasing memory utilization and for improving the accesstime."
+                },
+                {
+                  "text": "Design and implement file managementsystem."
+                },
+                {
+                  "text": "Develop the I/O management functions in OS"
+                },
+                {
+                  "text": "Recognise features of object-oriented design such as encapsulation, polymorphism, inheritance, and composition of systems based on objectidentity."
+                },
+                {
+                  "text": "Name and apply some common object-oriented design patterns and give examples of theiruse."
+                },
+                {
+                  "text": "Specify simple abstract data types and design implementations, using abstraction functions to documentthem."
+                },
+                {
+                  "text": "Design the convenient way for handling of problem using templates and use simple try-catch blocks for Exception Handling."
+                },
+                {
+                  "text": "Manage I/O streams and File I/O oriented interactions."
+                },
+                {
+                  "text": "Write a formal notation for strings, languages andmachines."
+                },
+                {
+                  "text": "Design finite automata to accept a set of strings of alanguage."
+                },
+                {
+                  "text": "Design context free grammars to generate strings of context free language"
+                },
+                {
+                  "text": "Determine equivalence of languages accepted by Push Down Automata and languages generated by context freegrammars"
+                },
+                {
+                  "text": "Distinguish between computability and non-computability and Decidability andundecidability."
+                },
+                {
+                  "text": "Understand philosophy of Indian culture."
+                },
+                {
+                  "text": "Distinguish the Indian languages"
+                },
+                {
+                  "text": "Learn the philosophy of ancient, medieval and modern India."
+                },
+                {
+                  "text": "Acquire the information about the fine arts in India. Know the contribution of scientists of different eras."
+                },
+                {
+                  "text": "To gather the knowledge regarding Administration and Election Commission."
+                },
+                {
+                  "text": "Recognize basic logic gates with IC chips."
+                },
+                {
+                  "text": "Design combinational circuits using IC Chips."
+                },
+                {
+                  "text": "Connect the theory of computer organization with hardware."
+                },
+                {
+                  "text": "Implement the concept of adders"
+                },
+                {
+                  "text": "Apply fundamentals of digital design and extend the learning to design sequential circuits."
+                },
+                {
+                  "text": "Understand the system calls and I/O system calls in UNIX"
+                },
+                {
+                  "text": "Evaluate the process scheduling algorithms FCFS,SJF, Priority and Round robin"
+                },
+                {
+                  "text": "Simulate the process communication through various techniques"
+                },
+                {
+                  "text": "Simulate memory management schemes"
+                },
+                {
+                  "text": "Simulate File allocation Techniques"
+                },
+                {
+                  "text": "Design object oriented programs with static members and friend functions using C++"
+                },
+                {
+                  "text": "Implement C++ programs with operator overloading and type conversions"
+                },
+                {
+                  "text": "Develop class templates for various data structures like stack, queue and linked list."
+                },
+                {
+                  "text": "Create classes with necessary exception handling"
+                },
+                {
+                  "text": "Construct simple test applications using polymorphism."
+                },
+                {
+                  "text": "To demonstrate the basic knowledge of Linux commands and file handling utilities by using Linux shell environment."
+                },
+                {
+                  "text": "To evaluate the concept of shell scripting programs by using an AWK and SED commands."
+                },
+                {
+                  "text": "Use tracing mechanisms for debugging."
+                },
+                {
+                  "text": "Compile source code into object and executable modules."
+                },
+                {
+                  "text": "Use advanced network tools."
+                },
+                {
+                  "text": "Analyze worst-case running times of algorithms based on asymptotic analysis and justify the correctness of algorithms."
+                },
+                {
+                  "text": "Describe the greedy paradigm and explain when an algorithmic design situation calls for it. For a given problem develop the greedyalgorithms."
+                },
+                {
+                  "text": "Describe the divide-and-conquer paradigm and explain when an algorithmic design situation calls for it. Synthesize divide-and-conquer algorithms. Derive and solve recurrence relation."
+                },
+                {
+                  "text": "Describe the dynamic-programming paradigm and explain when an algorithmic design situation calls for it."
+                },
+                {
+                  "text": "Analyze randomized algorithms and approximation algorithms."
+                },
+                {
+                  "text": "Write Java programs with properly designed constants, variables, objects, methods and reusability functionality"
+                },
+                {
+                  "text": "Learn how and where to implement interface and exception handling concepts"
+                },
+                {
+                  "text": "Write multi-threaded programming concepts for concurrency control based applications"
+                },
+                {
+                  "text": "Construct GUI basedJAVA enterprise applications"
+                },
+                {
+                  "text": "Develop web applications using JDBC, RMI and Servlet methodologies."
+                },
+                {
+                  "text": "Develop the lexicalanalyser"
+                },
+                {
+                  "text": "Design top-down and bottom-up parsers"
+                },
+                {
+                  "text": "Develop syntax directed translationschemes"
+                },
+                {
+                  "text": "Draw DAG representation for problem statement"
+                },
+                {
+                  "text": "Develop algorithms to generate code for a targetmachine"
+                },
+                {
+                  "text": "Explain the functions of the different layer of the OSIProtocol."
+                },
+                {
+                  "text": "Draw the functional block diagram of wide-area networks (WANs), local area networks (LANs) and Wireless LANs (WLANs)."
+                },
+                {
+                  "text": "Address the issues related to IPv4 and IPv6"
+                },
+                {
+                  "text": "Configure DNS, TELNET, EMAIL, File Transfer Protocol (FTP), WWW, HTTP, SNMP"
+                },
+                {
+                  "text": "Configure Bluetooth, Firewalls using open source available software andtools."
+                },
+                {
+                  "text": "Understand the basic concept of a walk, path and circuit in a graph."
+                },
+                {
+                  "text": "To perform the basic operation of Euler graph and digraph"
+                },
+                {
+                  "text": "Discuss the various spanning trees algorithms."
+                },
+                {
+                  "text": "Understand the concept of edge connectivity, vertex connectivity and separable graphs."
+                },
+                {
+                  "text": "Derive the relations between the reduced incidence matrix, the fundamental cycle matrix, and the fundamental cut-set matrix of a graph G."
+                },
+                {
+                  "text": "Have a fundamental knowledge of the basic concepts of probability"
+                },
+                {
+                  "text": "Have a well-founded knowledge of various probability distributions which can describe real life phenomena"
+                },
+                {
+                  "text": "Acquire skills in estimating expected values of variables and handling situations involving more than one random variable and functions of random variables"
+                },
+                {
+                  "text": "Understand the stochastic processes and phenomena which evolve with respect to time in a probabilistic manner"
+                },
+                {
+                  "text": "Expose the basic characteristic features of Markov chains, queuing systems and queuing models"
+                },
+                {
+                  "text": "Understand research problems and challenges in fault tolerance computing"
+                },
+                {
+                  "text": "Identify the state-of-the-art techniques and tools to address research problems and challenges;"
+                },
+                {
+                  "text": "Develop strong technical reviewing, writing, and presentation skills."
+                },
+                {
+                  "text": "Design a more reliable systems that can tolerate S/W faults"
+                },
+                {
+                  "text": "Design a more reliable systems that can tolerate H/W faults"
+                },
+                {
+                  "text": "Develop the understanding of fundamentals of Graphics concepts, and standards"
+                },
+                {
+                  "text": "Understand the algorithms that form the foundation of computer graphics."
+                },
+                {
+                  "text": "Provide 3D representation for their applications"
+                },
+                {
+                  "text": "Understand varios transformation techniques and their application"
+                },
+                {
+                  "text": "Interpret parallel and oblique projections and their applications"
+                },
+                {
+                  "text": "Solve recurrence equations by considering time and space complexity."
+                },
+                {
+                  "text": "Analyze the complexities of various problems in different domains."
+                },
+                {
+                  "text": "Solve the problems that comprises of shortest route issue."
+                },
+                {
+                  "text": "Solve the problems that address the issue of dynamic programming"
+                },
+                {
+                  "text": "Synthesize efficient algorithms in common engineering design situations."
+                },
+                {
+                  "text": "Develop programs using object oriented concepts using arrays and string classes"
+                },
+                {
+                  "text": "Demonstrate features such as Inheritance, Interfaces with access specifiers and exception handling"
+                },
+                {
+                  "text": "Demonstrate multithreading programming concepts to solve real world problems"
+                },
+                {
+                  "text": "Design and implement GUI based applications."
+                },
+                {
+                  "text": "Develop web application using JDBC and Servlets"
+                },
+                {
+                  "text": "Understand organizational issues and its impact on organization and employees."
+                },
+                {
+                  "text": "Identify industrial problems and suggest possible solutions."
+                },
+                {
+                  "text": "Relate, apply and adapt relevant knowledge, concepts and theories within an industrial organization, practice and ethics."
+                },
+                {
+                  "text": "Apply technical knowledge in an industry to solve real world problems."
+                },
+                {
+                  "text": "Demonstrate effective group communication, presentation, self-management and report writing skills."
+                },
+                {
+                  "text": "Learn about hardware component like RJ-45 connector, CAT-6 Cable etc."
+                },
+                {
+                  "text": "Implement the various services of data link layer."
+                },
+                {
+                  "text": "Configuration of router, hub, switch etc"
+                },
+                {
+                  "text": "Configuration of server in programming mode they will learn about socket programming, client server programming for deeply understanding TCP/ IP model and various protocols."
+                },
+                {
+                  "text": "Configure their own Network management systems"
+                },
+                {
+                  "text": "Knowledge of the fundamentals of soft computing and applications of soft computing to solve various problems."
+                },
+                {
+                  "text": "Understanding of Fuzzy logic and reasoning to handle uncertainty and solve engineering problems."
+                },
+                {
+                  "text": "Understanding of the principles of Artificial Neural Network, different types of neural network and their applicability."
+                },
+                {
+                  "text": "Familiar with the concepts of Genetic algorithms, and various techniques"
+                },
+                {
+                  "text": "Classification problems and fundamentals of Machine Learning and classification and various applications."
+                },
+                {
+                  "text": "Plan, design, create, and implement a web site;"
+                },
+                {
+                  "text": "Use the concept of xml, css and DHTML"
+                },
+                {
+                  "text": "Develop a static and dynamic websites."
+                },
+                {
+                  "text": "Establish the database connectivity over a website."
+                },
+                {
+                  "text": "Identify appropriate software design model based on requirement analysis."
+                },
+                {
+                  "text": "Formulate Software Requirements Specification (SRS) reports for the real world application"
+                },
+                {
+                  "text": "Translate a specification into a design and identify the components to build the architecture"
+                },
+                {
+                  "text": "Plan a software engineering process to account for quality issues and non-functionalrequirements"
+                },
+                {
+                  "text": "Estimate the work to be done, resources required and the schedule for a software project plan"
+                },
+                {
+                  "text": "Understanding of scope & significance of OB with regard to cognitive framework."
+                },
+                {
+                  "text": "Understanding of the behavior with overview of attitude, personality and perception."
+                },
+                {
+                  "text": "To enhance overall skills for organizational effectiveness."
+                },
+                {
+                  "text": "To develops the understanding of the how to create and sustain organization culture."
+                },
+                {
+                  "text": "To develop problem-solving capabilities for effectively managing the organizational processes."
+                },
+                {
+                  "text": "Identify the various attacks and its issues."
+                },
+                {
+                  "text": "Learn usage of cryptographic algorithms for avoiding basic level threats."
+                },
+                {
+                  "text": "Comprehend the issues involved in Integrity, Authentication and Key Management techniques."
+                },
+                {
+                  "text": "Realize the importance of user authentication and Kerberos concepts."
+                },
+                {
+                  "text": "Acquire the knowledge of network and system security domain."
+                },
+                {
+                  "text": "Acquire the theoretical and conceptual foundations of distributed computing."
+                },
+                {
+                  "text": "Conceptualize the ideas of distributed operating systems and its issues."
+                },
+                {
+                  "text": "Understand the issues involved in distributed resource environment"
+                },
+                {
+                  "text": "Realize the importance of transaction and how to recovery the system from deadlocks."
+                },
+                {
+                  "text": "Explore the principles of fault tolerance and its protocols."
+                },
+                {
+                  "text": "Grasp a fundamental understanding of goals, components and evolution of real time systems"
+                },
+                {
+                  "text": "Explain the concepts of real time scheduling"
+                },
+                {
+                  "text": "Learn the scheduling policies of modern operating systems"
+                },
+                {
+                  "text": "Understand the resource access control techniques in real time systems."
+                },
+                {
+                  "text": "Understand the concept of real time communication"
+                },
+                {
+                  "text": "Demonstrate the mathematical foundations needed for data science."
+                },
+                {
+                  "text": "Collect, explore, clean,and manipulate data."
+                },
+                {
+                  "text": "Demonstrate the basic concepts of machine learning"
+                },
+                {
+                  "text": "Implement models such as k-nearest Neighbors, Naive Bayes, linear and logistic regression, decision trees, neural networks and clustering."
+                },
+                {
+                  "text": "Build data science applications using Python based toolkits."
+                },
+                {
+                  "text": "Understand the basics of 8085 microprocessor and its instruction set."
+                },
+                {
+                  "text": "Understand the 8086 architecture and its instruction set."
+                },
+                {
+                  "text": "Understand the 8086 programming."
+                },
+                {
+                  "text": "Know about the 8089 microprocessor's interfaces and their architecture"
+                },
+                {
+                  "text": "Describe the evolution and various types of advanced micoprocesors."
+                },
+                {
+                  "text": "Understand the application areas of IOT"
+                },
+                {
+                  "text": "Explore interconnection and integration of the physical world"
+                },
+                {
+                  "text": "Design & develop IOT Devices"
+                },
+                {
+                  "text": "Realize the revolution of Internet in Mobile Devices, Cloud &Sensor Networks"
+                },
+                {
+                  "text": "Understand the building blocks of Internet of Things and their characteristics."
+                },
+                {
+                  "text": "Impart the trends in emerging field of wireless ad hoc and sensor networking."
+                },
+                {
+                  "text": "Focus on layered communication modeling, such as the media access control and network layer."
+                },
+                {
+                  "text": "Understand the basic concept of QoS and Multicast routing protocol."
+                },
+                {
+                  "text": "Address quality of service issues and network reliability for transmission of real-time information."
+                },
+                {
+                  "text": "Learn the various routing protocols of ad hoc and sensor networks"
+                },
+                {
+                  "text": "Explain the working of a Quantum Computing program"
+                },
+                {
+                  "text": "Understand its architecture and programing model"
+                },
+                {
+                  "text": "Develop quantum logic gate circuits"
+                },
+                {
+                  "text": "Develop quantum algorithm"
+                },
+                {
+                  "text": "Program quantum algorithm on major toolkits"
+                },
+                {
+                  "text": "Understand geometric modelling and Virtual environment."
+                },
+                {
+                  "text": "Study about Virtual Hardware and Software"
+                },
+                {
+                  "text": "Present geometric model for VR systems"
+                },
+                {
+                  "text": "Identify which type hardware and software is suiable to design their own VR systems"
+                },
+                {
+                  "text": "Develop Virtual Reality applications."
+                },
+                {
+                  "text": "To impact knowledge on fuzzy logic principles"
+                },
+                {
+                  "text": "To understand Fuzzy Logic Methods"
+                },
+                {
+                  "text": "To understand the fuzzy logic controllers"
+                },
+                {
+                  "text": "To understand the data analysis"
+                },
+                {
+                  "text": "To understand the uses of fuzzy logic"
+                },
+                {
+                  "text": "Discuss Artificial Intelligence techniques for building well engineered and efficient intelligent systems."
+                },
+                {
+                  "text": "Describe the nature of AI problem and provide the solution as a particular type."
+                },
+                {
+                  "text": "Learning optimization and inference algorithms for model learning"
+                },
+                {
+                  "text": "Solve game challenging problems"
+                },
+                {
+                  "text": "Design and develop programs for an agent to learn and act in a structured environment."
+                },
+                {
+                  "text": "Understand, analyze and apply the role of languages HTML, JavaScript, JSP in the workings of the web and web applications"
+                },
+                {
+                  "text": "Analyze a web page and identify its elements and attributes."
+                },
+                {
+                  "text": "Able to develop web pages using JDBC"
+                },
+                {
+                  "text": "Able to build web applications using JSP."
+                },
+                {
+                  "text": "Develop and Deploy an Enterprise Application."
+                },
+                {
+                  "text": "Apply software development practices in projects"
+                },
+                {
+                  "text": "Express project requirements in IEEE SRS format"
+                },
+                {
+                  "text": "Design using standard design methodologies"
+                },
+                {
+                  "text": "Implement the project using a programming language and platform"
+                },
+                {
+                  "text": "Test and debug the project"
+                },
+                {
+                  "text": "Discover potential research areas in the field of information technology"
+                },
+                {
+                  "text": "Create very precise specifications of the IT solution to be designed"
+                },
+                {
+                  "text": "Have introduction to the vast array of literature available about the various research challenges in the field of IT"
+                },
+                {
+                  "text": "Use all concepts of IT in creating a solution for a problem"
+                },
+                {
+                  "text": "Have a glimpse of real world problems and challenges that need IT-based solutions."
+                },
+                {
+                  "text": "Understand complexity of Machine Learning algorithms and their limitations;"
+                },
+                {
+                  "text": "Understand modern notions in data analysis oriented computing;"
+                },
+                {
+                  "text": "Capableof applying common Machine Learning algorithms in practice and implementing their own"
+                },
+                {
+                  "text": "Capable of performing distributed computations"
+                },
+                {
+                  "text": "Capable of performing experiments in Machine Learning using real-world data"
+                },
+                {
+                  "text": "Understand Blockchain technology."
+                },
+                {
+                  "text": "Develop Blockchain based solutions and write smart contract using Hyperledger Fabric and Ethereum frameworks."
+                },
+                {
+                  "text": "Build and deploy Blockchain application for on premise and cloud-based architecture."
+                },
+                {
+                  "text": "Develop the concepts for safe use of crypto currency"
+                },
+                {
+                  "text": "Integrate ideas from various domains and implement them using Blockchain technology"
+                },
+                {
+                  "text": "Impart knowledge of mobile and wireless computing systems and techniques."
+                },
+                {
+                  "text": "Understand the knowledge of wireless network"
+                },
+                {
+                  "text": "Understand the concepts of security and failure detection and recovery strategies."
+                },
+                {
+                  "text": "Understand the concepts routing protocols."
+                },
+                {
+                  "text": "Understand the working of mobile tracking in wireless network"
+                },
+                {
+                  "text": "Understand the notion of an agent, how agents are distinct from other software paradigms"
+                },
+                {
+                  "text": "Understand the key issues associated with constructing agents capable of intelligent autonomous action, and the main approaches taken to developing such agents"
+                },
+                {
+                  "text": "Understand the key issues in designing societies of agents that can effectively cooperate in order to solve problems."
+                },
+                {
+                  "text": "Understand the key types of multi-agent interactions possible in such systems"
+                },
+                {
+                  "text": "Understand the main application areas of agent-based solutions, and be able to develop a meaningful agent-based system using a contemporary agent development platform."
+                },
+                {
+                  "text": "Interpret the contribution of data warehousing and data mining to the decision-support level of organizations"
+                },
+                {
+                  "text": "Evaluate different models used for OLAP and data preprocessing"
+                },
+                {
+                  "text": "Categorize and carefully differentiate between situations for applying different data-mining techniques: frequent pattern mining, association, correlation, classification, prediction, and cluster and outlier analysis"
+                },
+                {
+                  "text": "Design and implement systems for data mining"
+                },
+                {
+                  "text": "Evaluate the performance of different data-mining algorithms"
+                },
+                {
+                  "text": "Apply fuzzy logic and reasoning to handle uncertainty and solve engineering problems"
+                },
+                {
+                  "text": "Implement neural networks to pattern classification and regression problems."
+                },
+                {
+                  "text": "Apply genetic algorithms to combinatorial optimization problems."
+                },
+                {
+                  "text": "Apply to design their own optimized algorithm and fuzzy sets for problem solving and decision making."
+                },
+                {
+                  "text": "Mining the bulk of data present in the warehouse"
+                },
+                {
+                  "text": "Impart the knowledge of cloud computing and technologies, issues in cloud computing etc."
+                },
+                {
+                  "text": "identify the architecture, infrastructure and delivery models of cloud computing"
+                },
+                {
+                  "text": "Apply suitable virtualization concept."
+                },
+                {
+                  "text": "Choose the appropriate Programming Models and approach for Services"
+                },
+                {
+                  "text": "Address the core issues of cloud computing such as security, privacy and interoperability"
+                },
+                {
+                  "text": "Learn basic model of reliability and faults"
+                },
+                {
+                  "text": "Understand the principles behind reliability"
+                },
+                {
+                  "text": "Understand Hardware fault tolerance"
+                },
+                {
+                  "text": "Understand Software fault tolerance"
+                },
+                {
+                  "text": "Learn the programming tools in designing reliable systems"
+                },
+                {
+                  "text": "Produce the quality product without defects."
+                },
+                {
+                  "text": "Complete the task with better quality on time."
+                },
+                {
+                  "text": "Format their process of modelling"
+                },
+                {
+                  "text": "Streamline their activities to yield better result"
+                },
+                {
+                  "text": "Manage the people and control the defects."
+                },
+                {
+                  "text": "Make use of Data sets in implementing the machine learning algorithms"
+                },
+                {
+                  "text": "Understand the implementation procedures for the machine learning algorithms."
+                },
+                {
+                  "text": "Design Java/Python programs for various Learning algorithms."
+                },
+                {
+                  "text": "Apply appropriate data sets to the Machine Learning algorithms."
+                },
+                {
+                  "text": "Identify and apply Machine Learning algorithms to solve real world problems."
+                },
+                {
+                  "text": "Take up investigative study in the broad field of Computer Science & Engineering, either fully theoretical/practical or involving both the theoretical and practical work"
+                },
+                {
+                  "text": "Take up project assigned by the Department on an individual basis or in a group under the guidance of a supervisor"
+                },
+                {
+                  "text": "Survey and study published literature on the assigned topic, identify the research gaps and work out a systematic approach to the problem related to the assigned topic"
+                },
+                {
+                  "text": "Conduct preliminary analysis, modeling, simulation and experiment"
+                },
+                {
+                  "text": "Prepare a report on the study conducted and make presentation before the Department"
+                },
+                {
+                  "text": "Understand organizational issues and its impact on organization and employees."
+                },
+                {
+                  "text": "Identify industrial problems and suggest possible solutions."
+                },
+                {
+                  "text": "Relate, apply and adapt relevant knowledge, concepts and theories within an industrial organization, practice and ethics."
+                },
+                {
+                  "text": "Apply technical knowledge in an industry to solve real world problems."
+                },
+                {
+                  "text": "Demonstrate effective group communication, presentation, self-management and report writing skills."
+                },
+                {
+                  "text": "Helps to know the application of engineering to economics."
+                },
+                {
+                  "text": "The learning outcome for the students would be they get the actual difference between micro and macro economics."
+                },
+                {
+                  "text": "It gives students an introduction to the tools used by micro-economists and serves as a foundation to many economics courses that follow such as labor, financial and industrial economics."
+                },
+                {
+                  "text": "Provide the ability to use theories in analyzing economic phenomena for solving monetary problems."
+                },
+                {
+                  "text": "Helps in understanding the concept of banking operations in India."
+                },
+                {
+                  "text": "Understanding the fundamentals of digital image processing."
+                },
+                {
+                  "text": "Knowledge and understanding of image processing in spatial domain."
+                },
+                {
+                  "text": "Familiar with concepts of digital image processing in Frequency domain."
+                },
+                {
+                  "text": "Fundamentals of color image processing and Morphological Image Processing."
+                },
+                {
+                  "text": "Knowledge and understanding of image Registration and image features."
+                },
+                {
+                  "text": "Develop assembly language programs for 8051 and its applications in the field of information technology using different types of interfacing"
+                },
+                {
+                  "text": "Acquire knowledge on embedded systems basics and describe the architecture and operations of ARM processor"
+                },
+                {
+                  "text": "Develop skills in writing small programs for ARM processor"
+                },
+                {
+                  "text": "Apply different types of interfaces with interrupt handling mechanism"
+                },
+                {
+                  "text": "Understand the multiple process operating environments and use standard system call interfaces to monitor and control processes"
+                },
+                {
+                  "text": "Relate and safeguard their organizations from the scenarios of passive and active attacks."
+                },
+                {
+                  "text": "Understand the terminologies and vulnerabilities in the field of cyber security"
+                },
+                {
+                  "text": "Demonstrate the use of anti-malware tools for enhancing system network protection"
+                },
+                {
+                  "text": "Understand and analyze digital forensics with evidence"
+                },
+                {
+                  "text": "Understand the basic principles of Ethical Hackingalong with its techniques."
+                },
+                {
+                  "text": "Measure and analyze the quantity of information associated to events or random variables."
+                },
+                {
+                  "text": "Determine the limits of communications systems in terms of source and channel coding."
+                },
+                {
+                  "text": "Examine linear block codes and the algebraic structures used in the construction and in the decoding of cyclic codes."
+                },
+                {
+                  "text": "Calculate the error probability of a channel coding system with hard or soft decoding."
+                },
+                {
+                  "text": "Describe the coding techniques used in composite codes like LDPC and turbo codes that can reach the channel capacity"
+                },
+                {
+                  "text": "Appreciate the fundamentals and describe what Big Data Analytics is."
+                },
+                {
+                  "text": "Understand the Big Data flow and apply necessary components to build a Big Data Analytics System.I."
+                },
+                {
+                  "text": "Identify and successfully apply appropriate techniques and tools to solve Big Data problems."
+                },
+                {
+                  "text": "Analyze the requirements for a Big Data Analytics System for departmental organizational requirements using Hadoop."
+                },
+                {
+                  "text": "Understand Big Data ecosystem, specifically PIG and Hive."
+                },
+                {
+                  "text": "Extend further the investigative study taken up under Project-I, either fully theoretical/practical or involving both the theoretical and practical work under the guidance of a supervisor from the Department alone or jointly with a supervisor drawn from R&D laboratory/industry and obtain a good training in R&D work and technical leadership"
+                },
+                {
+                  "text": "Review and finalize the approach to the problem relating to the assigned topic and prepare an action plan for preparing conducting the investigation and assign responsibilities for team work"
+                },
+                {
+                  "text": "Conduct detailed analysis, modeling, simulation, design, problem solving or experiment as needed on the assigned topic"
+                },
+                {
+                  "text": "Develop product/process, test, draw results and conclusions, and give direction for future research and prepare a paper for conference presentation/publication in journals, if possible"
+                },
+                {
+                  "text": "Prepare a project report in the standard format for being evaluated by the Department and make final presentation on the project"
+                },
+                {
+                  "text": "Express themselves fluently and appropriately in social and professional contexts"
+                },
+                {
+                  "text": "Develop the sub-skills required for paper presentation and group discussions"
+                },
+                {
+                  "text": "Acquire the soft skills and interpersonal skills which will help them in their workplace needed for these functions"
+                },
+                {
+                  "text": "Collect materials from books, Internet, journals, and newspapers for the seminar theme and prepare a short seminar report"
+                },
+                {
+                  "text": "Make presentation on the topic, answer the queries/questions that come forward, clarify and supplement if necessary, and submit a report"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

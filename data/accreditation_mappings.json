@@ -1,0 +1,726 @@
+{
+  "co_to_pso": [
+    {
+      "source": "Illustrate the flowchart and design analgorithm for a given problem and to develop C programs using operators",
+      "mappings": [
+        {
+          "target": "To design and develop the computer applications using the software and hardware concepts of the computer science.",
+          "score": 0.656,
+          "level": 3
+        },
+        {
+          "target": "To cultivate the skills for career, research, development and entrepreneurship.",
+          "score": 0.462,
+          "level": 2
+        }
+      ]
+    },
+    {
+      "source": "Develop conditional and iterativestatements to write C programs",
+      "mappings": [
+        {
+          "target": "To design and develop the computer applications using the software and hardware concepts of the computer science.",
+          "score": 0.442,
+          "level": 2
+        },
+        {
+          "target": "To cultivate the skills for career, research, development and entrepreneurship.",
+          "score": 0.279,
+          "level": 1
+        }
+      ]
+    },
+    {
+      "source": "Exercise user defined functions to solvereal time problems",
+      "mappings": [
+        {
+          "target": "To design and develop the computer applications using the software and hardware concepts of the computer science.",
+          "score": 0.277,
+          "level": 1
+        },
+        {
+          "target": "To cultivate the skills for career, research, development and entrepreneurship.",
+          "score": 0.211,
+          "level": 1
+        }
+      ]
+    },
+    {
+      "source": "Use Pointers toaccess arrays, strings and functions.",
+      "mappings": [
+        {
+          "target": "To design and develop the computer applications using the software and hardware concepts of the computer science.",
+          "score": 0.381,
+          "level": 1
+        },
+        {
+          "target": "To cultivate the skills for career, research, development and entrepreneurship.",
+          "score": 0.238,
+          "level": 1
+        }
+      ]
+    },
+    {
+      "source": "Exercise user defined data typesincluding structures and unions and input and output files to solve problems",
+      "mappings": [
+        {
+          "target": "To design and develop the computer applications using the software and hardware concepts of the computer science.",
+          "score": 0.446,
+          "level": 2
+        },
+        {
+          "target": "To cultivate the skills for career, research, development and entrepreneurship.",
+          "score": 0.333,
+          "level": 1
+        }
+      ]
+    },
+    {
+      "source": "Develop conditional and iterativestatementsprograms",
+      "mappings": [
+        {
+          "target": "To design and develop the computer applications using the software and hardware concepts of the computer science.",
+          "score": 0.235,
+          "level": 1
+        },
+        {
+          "target": "To cultivate the skills for career, research, development and entrepreneurship.",
+          "score": 0.134,
+          "level": 0
+        }
+      ]
+    },
+    {
+      "source": "Exercise user defined functions to solvereal time problems",
+      "mappings": [
+        {
+          "target": "To design and develop the computer applications using the software and hardware concepts of the computer science.",
+          "score": 0.277,
+          "level": 1
+        },
+        {
+          "target": "To cultivate the skills for career, research, development and entrepreneurship.",
+          "score": 0.211,
+          "level": 1
+        }
+      ]
+    },
+    {
+      "source": "Develop programs using pointers, strings and arrays.",
+      "mappings": [
+        {
+          "target": "To design and develop the computer applications using the software and hardware concepts of the computer science.",
+          "score": 0.534,
+          "level": 2
+        },
+        {
+          "target": "To cultivate the skills for career, research, development and entrepreneurship.",
+          "score": 0.207,
+          "level": 1
+        }
+      ]
+    },
+    {
+      "source": "Develop C programs using pointers andto allocate memory using dynamic memorymanagement functions.",
+      "mappings": [
+        {
+          "target": "To design and develop the computer applications using the software and hardware concepts of the computer science.",
+          "score": 0.407,
+          "level": 2
+        },
+        {
+          "target": "To cultivate the skills for career, research, development and entrepreneurship.",
+          "score": 0.075,
+          "level": 0
+        }
+      ]
+    },
+    {
+      "source": "Exercise files concept to show input andoutput of files in C",
+      "mappings": [
+        {
+          "target": "To design and develop the computer applications using the software and hardware concepts of the computer science.",
+          "score": 0.396,
+          "level": 1
+        },
+        {
+          "target": "To cultivate the skills for career, research, development and entrepreneurship.",
+          "score": 0.195,
+          "level": 0
+        }
+      ]
+    },
+    {
+      "source": "Understand the concept of the algoritm to determine time and computational complexity, dynamic memory management.",
+      "mappings": [
+        {
+          "target": "To design and develop the computer applications using the software and hardware concepts of the computer science.",
+          "score": 0.633,
+          "level": 3
+        },
+        {
+          "target": "To cultivate the skills for career, research, development and entrepreneurship.",
+          "score": 0.452,
+          "level": 2
+        }
+      ]
+    },
+    {
+      "source": "Solve the search probem in real scenario's.",
+      "mappings": [
+        {
+          "target": "To design and develop the computer applications using the software and hardware concepts of the computer science.",
+          "score": 0.317,
+          "level": 1
+        },
+        {
+          "target": "To cultivate the skills for career, research, development and entrepreneurship.",
+          "score": 0.326,
+          "level": 1
+        }
+      ]
+    },
+    {
+      "source": "Understand the data like arrays, linked lists, stack and queues.",
+      "mappings": [
+        {
+          "target": "To design and develop the computer applications using the software and hardware concepts of the computer science.",
+          "score": 0.501,
+          "level": 2
+        },
+        {
+          "target": "To cultivate the skills for career, research, development and entrepreneurship.",
+          "score": 0.356,
+          "level": 1
+        }
+      ]
+    },
+    {
+      "source": "Solve the problems in trees and graphs.",
+      "mappings": [
+        {
+          "target": "To design and develop the computer applications using the software and hardware concepts of the computer science.",
+          "score": 0.391,
+          "level": 1
+        },
+        {
+          "target": "To cultivate the skills for career, research, development and entrepreneurship.",
+          "score": 0.282,
+          "level": 1
+        }
+      ]
+    },
+    {
+      "source": "Understand and implement the algorithms for sorting searching, delection and insertion.",
+      "mappings": [
+        {
+          "target": "To design and develop the computer applications using the software and hardware concepts of the computer science.",
+          "score": 0.514,
+          "level": 2
+        },
+        {
+          "target": "To cultivate the skills for career, research, development and entrepreneurship.",
+          "score": 0.456,
+          "level": 2
+        }
+      ]
+    },
+    {
+      "source": "Express it in terms of predicates, quantifiers and logical connectives",
+      "mappings": [
+        {
+          "target": "To design and develop the computer applications using the software and hardware concepts of the computer science.",
+          "score": 0.42,
+          "level": 2
+        },
+        {
+          "target": "To cultivate the skills for career, research, development and entrepreneurship.",
+          "score": 0.259,
+          "level": 1
+        }
+      ]
+    },
+    {
+      "source": "Derive the solution using deductive logic and prove the solution based on logicalinference",
+      "mappings": [
+        {
+          "target": "To design and develop the computer applications using the software and hardware concepts of the computer science.",
+          "score": 0.489,
+          "level": 2
+        },
+        {
+          "target": "To cultivate the skills for career, research, development and entrepreneurship.",
+          "score": 0.325,
+          "level": 1
+        }
+      ]
+    },
+    {
+      "source": "Classify mathematical problem and its algebraicstructure",
+      "mappings": [
+        {
+          "target": "To design and develop the computer applications using the software and hardware concepts of the computer science.",
+          "score": 0.251,
+          "level": 1
+        },
+        {
+          "target": "To cultivate the skills for career, research, development and entrepreneurship.",
+          "score": 0.126,
+          "level": 0
+        }
+      ]
+    },
+    {
+      "source": "Evaluate Boolean functions and simplify expressions using the properties of Boolean algebra",
+      "mappings": [
+        {
+          "target": "To design and develop the computer applications using the software and hardware concepts of the computer science.",
+          "score": 0.449,
+          "level": 2
+        },
+        {
+          "target": "To cultivate the skills for career, research, development and entrepreneurship.",
+          "score": 0.255,
+          "level": 1
+        }
+      ]
+    },
+    {
+      "source": "Develop the given problem as graph networks and solve with techniques of graphtheory",
+      "mappings": [
+        {
+          "target": "To design and develop the computer applications using the software and hardware concepts of the computer science.",
+          "score": 0.505,
+          "level": 2
+        },
+        {
+          "target": "To cultivate the skills for career, research, development and entrepreneurship.",
+          "score": 0.315,
+          "level": 1
+        }
+      ]
+    }
+  ],
+  "po_to_peo": [
+    {
+      "source": "Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization to the solution of complex engineering problems.",
+      "mappings": [
+        {
+          "target": "Students will gain the ability to identify, formulate, and solve challenging IT problems.",
+          "score": 0.562,
+          "level": 2
+        },
+        {
+          "target": "Students will develop professional skills that will prepare them for immediate employment or higher studies in Computer Science & Engineering and related disciplines.",
+          "score": 0.549,
+          "level": 2
+        },
+        {
+          "target": "Students will be provided with educational foundations that prepare them for leadership roles along diverse career paths.",
+          "score": 0.232,
+          "level": 1
+        },
+        {
+          "target": "Students will be trained to become future entrepreneurs.",
+          "score": 0.333,
+          "level": 1
+        },
+        {
+          "target": "Students will develop an understanding of the social and human context in which their engineering contributions will be utilized.",
+          "score": 0.734,
+          "level": 3
+        },
+        {
+          "target": "Students will learn to communicate the ideas effectively in a team environment.",
+          "score": 0.394,
+          "level": 1
+        }
+      ]
+    },
+    {
+      "source": "Identify, formulate, review research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences.",
+      "mappings": [
+        {
+          "target": "Students will gain the ability to identify, formulate, and solve challenging IT problems.",
+          "score": 0.616,
+          "level": 3
+        },
+        {
+          "target": "Students will develop professional skills that will prepare them for immediate employment or higher studies in Computer Science & Engineering and related disciplines.",
+          "score": 0.462,
+          "level": 2
+        },
+        {
+          "target": "Students will be provided with educational foundations that prepare them for leadership roles along diverse career paths.",
+          "score": 0.167,
+          "level": 0
+        },
+        {
+          "target": "Students will be trained to become future entrepreneurs.",
+          "score": 0.163,
+          "level": 0
+        },
+        {
+          "target": "Students will develop an understanding of the social and human context in which their engineering contributions will be utilized.",
+          "score": 0.703,
+          "level": 3
+        },
+        {
+          "target": "Students will learn to communicate the ideas effectively in a team environment.",
+          "score": 0.158,
+          "level": 0
+        }
+      ]
+    },
+    {
+      "source": "Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, and the cultural, societal, and environmental considerations.",
+      "mappings": [
+        {
+          "target": "Students will gain the ability to identify, formulate, and solve challenging IT problems.",
+          "score": 0.489,
+          "level": 2
+        },
+        {
+          "target": "Students will develop professional skills that will prepare them for immediate employment or higher studies in Computer Science & Engineering and related disciplines.",
+          "score": 0.566,
+          "level": 2
+        },
+        {
+          "target": "Students will be provided with educational foundations that prepare them for leadership roles along diverse career paths.",
+          "score": 0.522,
+          "level": 2
+        },
+        {
+          "target": "Students will be trained to become future entrepreneurs.",
+          "score": 0.131,
+          "level": 0
+        },
+        {
+          "target": "Students will develop an understanding of the social and human context in which their engineering contributions will be utilized.",
+          "score": 0.689,
+          "level": 3
+        },
+        {
+          "target": "Students will learn to communicate the ideas effectively in a team environment.",
+          "score": 0.263,
+          "level": 1
+        }
+      ]
+    },
+    {
+      "source": "Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions.",
+      "mappings": [
+        {
+          "target": "Students will gain the ability to identify, formulate, and solve challenging IT problems.",
+          "score": 0.581,
+          "level": 2
+        },
+        {
+          "target": "Students will develop professional skills that will prepare them for immediate employment or higher studies in Computer Science & Engineering and related disciplines.",
+          "score": 0.332,
+          "level": 1
+        },
+        {
+          "target": "Students will be provided with educational foundations that prepare them for leadership roles along diverse career paths.",
+          "score": 0.168,
+          "level": 0
+        },
+        {
+          "target": "Students will be trained to become future entrepreneurs.",
+          "score": 0.288,
+          "level": 1
+        },
+        {
+          "target": "Students will develop an understanding of the social and human context in which their engineering contributions will be utilized.",
+          "score": 0.573,
+          "level": 2
+        },
+        {
+          "target": "Students will learn to communicate the ideas effectively in a team environment.",
+          "score": 0.457,
+          "level": 2
+        }
+      ]
+    },
+    {
+      "source": "Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modeling to complex engineering activities with an understanding of the limitations.",
+      "mappings": [
+        {
+          "target": "Students will gain the ability to identify, formulate, and solve challenging IT problems.",
+          "score": 0.679,
+          "level": 3
+        },
+        {
+          "target": "Students will develop professional skills that will prepare them for immediate employment or higher studies in Computer Science & Engineering and related disciplines.",
+          "score": 0.499,
+          "level": 2
+        },
+        {
+          "target": "Students will be provided with educational foundations that prepare them for leadership roles along diverse career paths.",
+          "score": 0.27,
+          "level": 1
+        },
+        {
+          "target": "Students will be trained to become future entrepreneurs.",
+          "score": 0.309,
+          "level": 1
+        },
+        {
+          "target": "Students will develop an understanding of the social and human context in which their engineering contributions will be utilized.",
+          "score": 0.679,
+          "level": 3
+        },
+        {
+          "target": "Students will learn to communicate the ideas effectively in a team environment.",
+          "score": 0.421,
+          "level": 2
+        }
+      ]
+    },
+    {
+      "source": "Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice.",
+      "mappings": [
+        {
+          "target": "Students will gain the ability to identify, formulate, and solve challenging IT problems.",
+          "score": 0.58,
+          "level": 2
+        },
+        {
+          "target": "Students will develop professional skills that will prepare them for immediate employment or higher studies in Computer Science & Engineering and related disciplines.",
+          "score": 0.601,
+          "level": 3
+        },
+        {
+          "target": "Students will be provided with educational foundations that prepare them for leadership roles along diverse career paths.",
+          "score": 0.161,
+          "level": 0
+        },
+        {
+          "target": "Students will be trained to become future entrepreneurs.",
+          "score": 0.274,
+          "level": 1
+        },
+        {
+          "target": "Students will develop an understanding of the social and human context in which their engineering contributions will be utilized.",
+          "score": 0.747,
+          "level": 3
+        },
+        {
+          "target": "Students will learn to communicate the ideas effectively in a team environment.",
+          "score": 0.39,
+          "level": 1
+        }
+      ]
+    },
+    {
+      "source": "Understand the impact of the professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for sustainable development.",
+      "mappings": [
+        {
+          "target": "Students will gain the ability to identify, formulate, and solve challenging IT problems.",
+          "score": 0.426,
+          "level": 2
+        },
+        {
+          "target": "Students will develop professional skills that will prepare them for immediate employment or higher studies in Computer Science & Engineering and related disciplines.",
+          "score": 0.649,
+          "level": 3
+        },
+        {
+          "target": "Students will be provided with educational foundations that prepare them for leadership roles along diverse career paths.",
+          "score": 0.293,
+          "level": 1
+        },
+        {
+          "target": "Students will be trained to become future entrepreneurs.",
+          "score": 0.212,
+          "level": 1
+        },
+        {
+          "target": "Students will develop an understanding of the social and human context in which their engineering contributions will be utilized.",
+          "score": 0.72,
+          "level": 3
+        },
+        {
+          "target": "Students will learn to communicate the ideas effectively in a team environment.",
+          "score": 0.388,
+          "level": 1
+        }
+      ]
+    },
+    {
+      "source": "Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice.",
+      "mappings": [
+        {
+          "target": "Students will gain the ability to identify, formulate, and solve challenging IT problems.",
+          "score": 0.489,
+          "level": 2
+        },
+        {
+          "target": "Students will develop professional skills that will prepare them for immediate employment or higher studies in Computer Science & Engineering and related disciplines.",
+          "score": 0.623,
+          "level": 3
+        },
+        {
+          "target": "Students will be provided with educational foundations that prepare them for leadership roles along diverse career paths.",
+          "score": 0.17,
+          "level": 0
+        },
+        {
+          "target": "Students will be trained to become future entrepreneurs.",
+          "score": 0.284,
+          "level": 1
+        },
+        {
+          "target": "Students will develop an understanding of the social and human context in which their engineering contributions will be utilized.",
+          "score": 0.69,
+          "level": 3
+        },
+        {
+          "target": "Students will learn to communicate the ideas effectively in a team environment.",
+          "score": 0.372,
+          "level": 1
+        }
+      ]
+    },
+    {
+      "source": "Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings.",
+      "mappings": [
+        {
+          "target": "Students will gain the ability to identify, formulate, and solve challenging IT problems.",
+          "score": 0.381,
+          "level": 1
+        },
+        {
+          "target": "Students will develop professional skills that will prepare them for immediate employment or higher studies in Computer Science & Engineering and related disciplines.",
+          "score": 0.598,
+          "level": 2
+        },
+        {
+          "target": "Students will be provided with educational foundations that prepare them for leadership roles along diverse career paths.",
+          "score": 0.446,
+          "level": 2
+        },
+        {
+          "target": "Students will be trained to become future entrepreneurs.",
+          "score": 0.201,
+          "level": 1
+        },
+        {
+          "target": "Students will develop an understanding of the social and human context in which their engineering contributions will be utilized.",
+          "score": 0.595,
+          "level": 2
+        },
+        {
+          "target": "Students will learn to communicate the ideas effectively in a team environment.",
+          "score": 0.704,
+          "level": 3
+        }
+      ]
+    },
+    {
+      "source": "Communicate effectively on complex engineering activities with the engineering community and with society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions.",
+      "mappings": [
+        {
+          "target": "Students will gain the ability to identify, formulate, and solve challenging IT problems.",
+          "score": 0.621,
+          "level": 3
+        },
+        {
+          "target": "Students will develop professional skills that will prepare them for immediate employment or higher studies in Computer Science & Engineering and related disciplines.",
+          "score": 0.511,
+          "level": 2
+        },
+        {
+          "target": "Students will be provided with educational foundations that prepare them for leadership roles along diverse career paths.",
+          "score": 0.321,
+          "level": 1
+        },
+        {
+          "target": "Students will be trained to become future entrepreneurs.",
+          "score": 0.298,
+          "level": 1
+        },
+        {
+          "target": "Students will develop an understanding of the social and human context in which their engineering contributions will be utilized.",
+          "score": 0.745,
+          "level": 3
+        },
+        {
+          "target": "Students will learn to communicate the ideas effectively in a team environment.",
+          "score": 0.674,
+          "level": 3
+        }
+      ]
+    },
+    {
+      "source": "Demonstrate knowledge and understanding of the engineering and management principles and apply these to one\u00e2\u20ac\u2122s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments.",
+      "mappings": [
+        {
+          "target": "Students will gain the ability to identify, formulate, and solve challenging IT problems.",
+          "score": 0.611,
+          "level": 3
+        },
+        {
+          "target": "Students will develop professional skills that will prepare them for immediate employment or higher studies in Computer Science & Engineering and related disciplines.",
+          "score": 0.674,
+          "level": 3
+        },
+        {
+          "target": "Students will be provided with educational foundations that prepare them for leadership roles along diverse career paths.",
+          "score": 0.295,
+          "level": 1
+        },
+        {
+          "target": "Students will be trained to become future entrepreneurs.",
+          "score": 0.369,
+          "level": 1
+        },
+        {
+          "target": "Students will develop an understanding of the social and human context in which their engineering contributions will be utilized.",
+          "score": 0.744,
+          "level": 3
+        },
+        {
+          "target": "Students will learn to communicate the ideas effectively in a team environment.",
+          "score": 0.657,
+          "level": 3
+        }
+      ]
+    },
+    {
+      "source": "Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change.",
+      "mappings": [
+        {
+          "target": "Students will gain the ability to identify, formulate, and solve challenging IT problems.",
+          "score": 0.726,
+          "level": 3
+        },
+        {
+          "target": "Students will develop professional skills that will prepare them for immediate employment or higher studies in Computer Science & Engineering and related disciplines.",
+          "score": 0.6,
+          "level": 3
+        },
+        {
+          "target": "Students will be provided with educational foundations that prepare them for leadership roles along diverse career paths.",
+          "score": 0.348,
+          "level": 1
+        },
+        {
+          "target": "Students will be trained to become future entrepreneurs.",
+          "score": 0.475,
+          "level": 2
+        },
+        {
+          "target": "Students will develop an understanding of the social and human context in which their engineering contributions will be utilized.",
+          "score": 0.704,
+          "level": 3
+        },
+        {
+          "target": "Students will learn to communicate the ideas effectively in a team environment.",
+          "score": 0.636,
+          "level": 3
+        }
+      ]
+    }
+  ]
+}

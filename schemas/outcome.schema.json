@@ -1,0 +1,9 @@
+{
+  "type": "object",
+  "properties": {
+    "id": { "type": "string" },
+    "text": { "type": "string" },
+    "bloom": { "type": "string" }
+  },
+  "required": ["id", "text", "bloom"]
+}

@@ -1,0 +1,1438 @@
+[
+  {
+    "id": "LO-1",
+    "text": "Illustrate the flowchart and design analgorithm for a given problem and to develop C programs using operators"
+  },
+  {
+    "id": "LO-2",
+    "text": "Develop conditional and iterativestatements to write C programs"
+  },
+  {
+    "id": "LO-3",
+    "text": "Exercise user defined functions to solvereal time problems"
+  },
+  {
+    "id": "LO-4",
+    "text": "Use Pointers toaccess arrays, strings and functions."
+  },
+  {
+    "id": "LO-5",
+    "text": "Exercise user defined data typesincluding structures and unions and input and output files to solve problems"
+  },
+  {
+    "id": "LO-6",
+    "text": "Develop conditional and iterativestatementsprograms"
+  },
+  {
+    "id": "LO-7",
+    "text": "Exercise user defined functions to solvereal time problems"
+  },
+  {
+    "id": "LO-8",
+    "text": "Develop programs using pointers, strings and arrays."
+  },
+  {
+    "id": "LO-9",
+    "text": "Develop C programs using pointers andto allocate memory using dynamic memorymanagement functions."
+  },
+  {
+    "id": "LO-10",
+    "text": "Exercise files concept to show input andoutput of files in C"
+  },
+  {
+    "id": "LO-11",
+    "text": "Understand the concept of the algoritm to determine time and computational complexity, dynamic memory management."
+  },
+  {
+    "id": "LO-12",
+    "text": "Solve the search probem in real scenario's."
+  },
+  {
+    "id": "LO-13",
+    "text": "Understand the data like arrays, linked lists, stack and queues."
+  },
+  {
+    "id": "LO-14",
+    "text": "Solve the problems in trees and graphs."
+  },
+  {
+    "id": "LO-15",
+    "text": "Understand and implement the algorithms for sorting searching, delection and insertion."
+  },
+  {
+    "id": "LO-16",
+    "text": "Express it in terms of predicates, quantifiers and logical connectives"
+  },
+  {
+    "id": "LO-17",
+    "text": "Derive the solution using deductive logic and prove the solution based on logicalinference"
+  },
+  {
+    "id": "LO-18",
+    "text": "Classify mathematical problem and its algebraicstructure"
+  },
+  {
+    "id": "LO-19",
+    "text": "Evaluate Boolean functions and simplify expressions using the properties of Boolean algebra"
+  },
+  {
+    "id": "LO-20",
+    "text": "Develop the given problem as graph networks and solve with techniques of graphtheory"
+  },
+  {
+    "id": "LO-21",
+    "text": "Understand the concepts of Database Management System, DDL, DML and requirement design the databases using E R method for real life applications."
+  },
+  {
+    "id": "LO-22",
+    "text": "Knowledge and understanding of Relational algebra, Structured Query Language and ability to generate queries for real life applications."
+  },
+  {
+    "id": "LO-23",
+    "text": "Knowledge of relational Database design and Improve the database design by normalization and Familiar with the concepts of indexing methods including B tree, and hashing."
+  },
+  {
+    "id": "LO-24",
+    "text": "Understanding the concepts of transaction-processing system, ACID (atomicity, consistency, isolation, and durability) properties and concurrency control mechanism."
+  },
+  {
+    "id": "LO-25",
+    "text": "Knowledge of advanced topic in DBMS: object oriented, object relational database and various applications"
+  },
+  {
+    "id": "LO-26",
+    "text": "Understand the working of logicgates."
+  },
+  {
+    "id": "LO-27",
+    "text": "Understand the working of synchronous and asynchronous counters"
+  },
+  {
+    "id": "LO-28",
+    "text": "Design and implement Combinational and Sequentiallogiccircuits."
+  },
+  {
+    "id": "LO-29",
+    "text": "Understand the process of Analog to Digital conversion and Digital to Analog conversion."
+  },
+  {
+    "id": "LO-30",
+    "text": "Use PLDs to implement the given logicalproblem."
+  },
+  {
+    "id": "LO-31",
+    "text": "Developessentialprogrammingskillsincomputerprogrammingconceptslikedatatypes"
+  },
+  {
+    "id": "LO-32",
+    "text": "Applythe basicsofprogramminginthePython language"
+  },
+  {
+    "id": "LO-33",
+    "text": "Solvecodingtasksrelatedconditionalexecution,loops"
+  },
+  {
+    "id": "LO-34",
+    "text": "Develop user defined function and standard modules in python programming."
+  },
+  {
+    "id": "LO-35",
+    "text": "Solvecodingtasksrelatedtothefundamentalnotionsandtechniquesusedinobject-orientedprogramming."
+  },
+  {
+    "id": "LO-36",
+    "text": "Ability to understand the concept of Constitution"
+  },
+  {
+    "id": "LO-37",
+    "text": "Ability to understand the Role of Indian constitution."
+  },
+  {
+    "id": "LO-38",
+    "text": "Overview of various Constitutional Rights and Duties"
+  },
+  {
+    "id": "LO-39",
+    "text": "Ability to understand the Tri-Level Democratic arrangement."
+  },
+  {
+    "id": "LO-40",
+    "text": "Ability to gather the knowledge regarding Administration and Election Commission."
+  },
+  {
+    "id": "LO-41",
+    "text": "Develop programs using dynamic memory allocation and linked list ADT."
+  },
+  {
+    "id": "LO-42",
+    "text": "Apply Stack and Queue to solve problems."
+  },
+  {
+    "id": "LO-43",
+    "text": "Implement the concept of hashing in real time dictionaries."
+  },
+  {
+    "id": "LO-44",
+    "text": "Identify and implement the suitable data structures for the given problem."
+  },
+  {
+    "id": "LO-45",
+    "text": "Solve real world problems by finding minimum spanning tree and Shortest path algorithm."
+  },
+  {
+    "id": "LO-46",
+    "text": "Understand, appreciate and effectively explain the concepts of database Technologies."
+  },
+  {
+    "id": "LO-47",
+    "text": "Declare and enforce integrity constraints on a database using RDBMS."
+  },
+  {
+    "id": "LO-48",
+    "text": "Devise a complex query using SQL DML/DDL commands."
+  },
+  {
+    "id": "LO-49",
+    "text": "Create views and use in-built functions to query a database."
+  },
+  {
+    "id": "LO-50",
+    "text": "Write PL/SQL programs including stored procedures, stored functions and triggers."
+  },
+  {
+    "id": "LO-51",
+    "text": "Describe the basic concept of Number System and number Conversion."
+  },
+  {
+    "id": "LO-52",
+    "text": "Implement different methods used for simplification of Boolean functions."
+  },
+  {
+    "id": "LO-53",
+    "text": "Implement the concept of multiplexer"
+  },
+  {
+    "id": "LO-54",
+    "text": "Implement and analyse the combinational circuits and Sequential circuits."
+  },
+  {
+    "id": "LO-55",
+    "text": "Implement synchronous sequential circuits."
+  },
+  {
+    "id": "LO-56",
+    "text": "Understand organizational issues and its impact on organization and employees."
+  },
+  {
+    "id": "LO-57",
+    "text": "Identify industrial problems and suggest possible solutions."
+  },
+  {
+    "id": "LO-58",
+    "text": "Relate, apply and adapt relevant knowledge, concepts and theories within an industrial organization, practice and ethics."
+  },
+  {
+    "id": "LO-59",
+    "text": "Apply technical knowledge in an industry to solve real world problems."
+  },
+  {
+    "id": "LO-60",
+    "text": "Demonstrate effective group communication, presentation, self-management and report writing skills."
+  },
+  {
+    "id": "LO-61",
+    "text": "Run Python Programs at interactive and script mode."
+  },
+  {
+    "id": "LO-62",
+    "text": "Implement Python programs with conditionals and loops."
+  },
+  {
+    "id": "LO-63",
+    "text": "Develop Python programs stepwise by defining functions and calling them."
+  },
+  {
+    "id": "LO-64",
+    "text": "Use Python lists, tuples and dictionaries for representing compound data."
+  },
+  {
+    "id": "LO-65",
+    "text": "Read and write data from/to files in Python"
+  },
+  {
+    "id": "LO-66",
+    "text": "Draw the functional block diagram of a single bus architecture of a computer and describe the function of the instruction execution cycle, RTL interpretation of instructions."
+  },
+  {
+    "id": "LO-67",
+    "text": "Given a CPU organization and instruction, design a memory module and analyze its operation by interfacing with theCPU."
+  },
+  {
+    "id": "LO-68",
+    "text": "Design the connection between I/O address from the CPU and the I/O interface."
+  },
+  {
+    "id": "LO-69",
+    "text": "Understand the concept of Pipelining and multiprocessor."
+  },
+  {
+    "id": "LO-70",
+    "text": "Draw a flowchart for concurrent access to memory and cache coherency in parallel processors."
+  },
+  {
+    "id": "LO-71",
+    "text": "Create processes andthreads."
+  },
+  {
+    "id": "LO-72",
+    "text": "Develop algorithms for process scheduling for a given specification of CPU utilization, Throughput, Turnaround Time, Waiting Time, ResponseTime."
+  },
+  {
+    "id": "LO-73",
+    "text": "Develop the techniques for optimally allocating memory to processes by increasing memory utilization and for improving the accesstime."
+  },
+  {
+    "id": "LO-74",
+    "text": "Design and implement file managementsystem."
+  },
+  {
+    "id": "LO-75",
+    "text": "Develop the I/O management functions in OS"
+  },
+  {
+    "id": "LO-76",
+    "text": "Recognise features of object-oriented design such as encapsulation, polymorphism, inheritance, and composition of systems based on objectidentity."
+  },
+  {
+    "id": "LO-77",
+    "text": "Name and apply some common object-oriented design patterns and give examples of theiruse."
+  },
+  {
+    "id": "LO-78",
+    "text": "Specify simple abstract data types and design implementations, using abstraction functions to documentthem."
+  },
+  {
+    "id": "LO-79",
+    "text": "Design the convenient way for handling of problem using templates and use simple try-catch blocks for Exception Handling."
+  },
+  {
+    "id": "LO-80",
+    "text": "Manage I/O streams and File I/O oriented interactions."
+  },
+  {
+    "id": "LO-81",
+    "text": "Write a formal notation for strings, languages andmachines."
+  },
+  {
+    "id": "LO-82",
+    "text": "Design finite automata to accept a set of strings of alanguage."
+  },
+  {
+    "id": "LO-83",
+    "text": "Design context free grammars to generate strings of context free language"
+  },
+  {
+    "id": "LO-84",
+    "text": "Determine equivalence of languages accepted by Push Down Automata and languages generated by context freegrammars"
+  },
+  {
+    "id": "LO-85",
+    "text": "Distinguish between computability and non-computability and Decidability andundecidability."
+  },
+  {
+    "id": "LO-86",
+    "text": "Understand philosophy of Indian culture."
+  },
+  {
+    "id": "LO-87",
+    "text": "Distinguish the Indian languages"
+  },
+  {
+    "id": "LO-88",
+    "text": "Learn the philosophy of ancient, medieval and modern India."
+  },
+  {
+    "id": "LO-89",
+    "text": "Acquire the information about the fine arts in India. Know the contribution of scientists of different eras."
+  },
+  {
+    "id": "LO-90",
+    "text": "To gather the knowledge regarding Administration and Election Commission."
+  },
+  {
+    "id": "LO-91",
+    "text": "Recognize basic logic gates with IC chips."
+  },
+  {
+    "id": "LO-92",
+    "text": "Design combinational circuits using IC Chips."
+  },
+  {
+    "id": "LO-93",
+    "text": "Connect the theory of computer organization with hardware."
+  },
+  {
+    "id": "LO-94",
+    "text": "Implement the concept of adders"
+  },
+  {
+    "id": "LO-95",
+    "text": "Apply fundamentals of digital design and extend the learning to design sequential circuits."
+  },
+  {
+    "id": "LO-96",
+    "text": "Understand the system calls and I/O system calls in UNIX"
+  },
+  {
+    "id": "LO-97",
+    "text": "Evaluate the process scheduling algorithms FCFS,SJF, Priority and Round robin"
+  },
+  {
+    "id": "LO-98",
+    "text": "Simulate the process communication through various techniques"
+  },
+  {
+    "id": "LO-99",
+    "text": "Simulate memory management schemes"
+  },
+  {
+    "id": "LO-100",
+    "text": "Simulate File allocation Techniques"
+  },
+  {
+    "id": "LO-101",
+    "text": "Design object oriented programs with static members and friend functions using C++"
+  },
+  {
+    "id": "LO-102",
+    "text": "Implement C++ programs with operator overloading and type conversions"
+  },
+  {
+    "id": "LO-103",
+    "text": "Develop class templates for various data structures like stack, queue and linked list."
+  },
+  {
+    "id": "LO-104",
+    "text": "Create classes with necessary exception handling"
+  },
+  {
+    "id": "LO-105",
+    "text": "Construct simple test applications using polymorphism."
+  },
+  {
+    "id": "LO-106",
+    "text": "To demonstrate the basic knowledge of Linux commands and file handling utilities by using Linux shell environment."
+  },
+  {
+    "id": "LO-107",
+    "text": "To evaluate the concept of shell scripting programs by using an AWK and SED commands."
+  },
+  {
+    "id": "LO-108",
+    "text": "Use tracing mechanisms for debugging."
+  },
+  {
+    "id": "LO-109",
+    "text": "Compile source code into object and executable modules."
+  },
+  {
+    "id": "LO-110",
+    "text": "Use advanced network tools."
+  },
+  {
+    "id": "LO-111",
+    "text": "Analyze worst-case running times of algorithms based on asymptotic analysis and justify the correctness of algorithms."
+  },
+  {
+    "id": "LO-112",
+    "text": "Describe the greedy paradigm and explain when an algorithmic design situation calls for it. For a given problem develop the greedyalgorithms."
+  },
+  {
+    "id": "LO-113",
+    "text": "Describe the divide-and-conquer paradigm and explain when an algorithmic design situation calls for it. Synthesize divide-and-conquer algorithms. Derive and solve recurrence relation."
+  },
+  {
+    "id": "LO-114",
+    "text": "Describe the dynamic-programming paradigm and explain when an algorithmic design situation calls for it."
+  },
+  {
+    "id": "LO-115",
+    "text": "Analyze randomized algorithms and approximation algorithms."
+  },
+  {
+    "id": "LO-116",
+    "text": "Write Java programs with properly designed constants, variables, objects, methods and reusability functionality"
+  },
+  {
+    "id": "LO-117",
+    "text": "Learn how and where to implement interface and exception handling concepts"
+  },
+  {
+    "id": "LO-118",
+    "text": "Write multi-threaded programming concepts for concurrency control based applications"
+  },
+  {
+    "id": "LO-119",
+    "text": "Construct GUI basedJAVA enterprise applications"
+  },
+  {
+    "id": "LO-120",
+    "text": "Develop web applications using JDBC, RMI and Servlet methodologies."
+  },
+  {
+    "id": "LO-121",
+    "text": "Develop the lexicalanalyser"
+  },
+  {
+    "id": "LO-122",
+    "text": "Design top-down and bottom-up parsers"
+  },
+  {
+    "id": "LO-123",
+    "text": "Develop syntax directed translationschemes"
+  },
+  {
+    "id": "LO-124",
+    "text": "Draw DAG representation for problem statement"
+  },
+  {
+    "id": "LO-125",
+    "text": "Develop algorithms to generate code for a targetmachine"
+  },
+  {
+    "id": "LO-126",
+    "text": "Explain the functions of the different layer of the OSIProtocol."
+  },
+  {
+    "id": "LO-127",
+    "text": "Draw the functional block diagram of wide-area networks (WANs), local area networks (LANs) and Wireless LANs (WLANs)."
+  },
+  {
+    "id": "LO-128",
+    "text": "Address the issues related to IPv4 and IPv6"
+  },
+  {
+    "id": "LO-129",
+    "text": "Configure DNS, TELNET, EMAIL, File Transfer Protocol (FTP), WWW, HTTP, SNMP"
+  },
+  {
+    "id": "LO-130",
+    "text": "Configure Bluetooth, Firewalls using open source available software andtools."
+  },
+  {
+    "id": "LO-131",
+    "text": "Understand the basic concept of a walk, path and circuit in a graph."
+  },
+  {
+    "id": "LO-132",
+    "text": "To perform the basic operation of Euler graph and digraph"
+  },
+  {
+    "id": "LO-133",
+    "text": "Discuss the various spanning trees algorithms."
+  },
+  {
+    "id": "LO-134",
+    "text": "Understand the concept of edge connectivity, vertex connectivity and separable graphs."
+  },
+  {
+    "id": "LO-135",
+    "text": "Derive the relations between the reduced incidence matrix, the fundamental cycle matrix, and the fundamental cut-set matrix of a graph G."
+  },
+  {
+    "id": "LO-136",
+    "text": "Have a fundamental knowledge of the basic concepts of probability"
+  },
+  {
+    "id": "LO-137",
+    "text": "Have a well-founded knowledge of various probability distributions which can describe real life phenomena"
+  },
+  {
+    "id": "LO-138",
+    "text": "Acquire skills in estimating expected values of variables and handling situations involving more than one random variable and functions of random variables"
+  },
+  {
+    "id": "LO-139",
+    "text": "Understand the stochastic processes and phenomena which evolve with respect to time in a probabilistic manner"
+  },
+  {
+    "id": "LO-140",
+    "text": "Expose the basic characteristic features of Markov chains, queuing systems and queuing models"
+  },
+  {
+    "id": "LO-141",
+    "text": "Understand research problems and challenges in fault tolerance computing"
+  },
+  {
+    "id": "LO-142",
+    "text": "Identify the state-of-the-art techniques and tools to address research problems and challenges;"
+  },
+  {
+    "id": "LO-143",
+    "text": "Develop strong technical reviewing, writing, and presentation skills."
+  },
+  {
+    "id": "LO-144",
+    "text": "Design a more reliable systems that can tolerate S/W faults"
+  },
+  {
+    "id": "LO-145",
+    "text": "Design a more reliable systems that can tolerate H/W faults"
+  },
+  {
+    "id": "LO-146",
+    "text": "Develop the understanding of fundamentals of Graphics concepts, and standards"
+  },
+  {
+    "id": "LO-147",
+    "text": "Understand the algorithms that form the foundation of computer graphics."
+  },
+  {
+    "id": "LO-148",
+    "text": "Provide 3D representation for their applications"
+  },
+  {
+    "id": "LO-149",
+    "text": "Understand varios transformation techniques and their application"
+  },
+  {
+    "id": "LO-150",
+    "text": "Interpret parallel and oblique projections and their applications"
+  },
+  {
+    "id": "LO-151",
+    "text": "Solve recurrence equations by considering time and space complexity."
+  },
+  {
+    "id": "LO-152",
+    "text": "Analyze the complexities of various problems in different domains."
+  },
+  {
+    "id": "LO-153",
+    "text": "Solve the problems that comprises of shortest route issue."
+  },
+  {
+    "id": "LO-154",
+    "text": "Solve the problems that address the issue of dynamic programming"
+  },
+  {
+    "id": "LO-155",
+    "text": "Synthesize efficient algorithms in common engineering design situations."
+  },
+  {
+    "id": "LO-156",
+    "text": "Develop programs using object oriented concepts using arrays and string classes"
+  },
+  {
+    "id": "LO-157",
+    "text": "Demonstrate features such as Inheritance, Interfaces with access specifiers and exception handling"
+  },
+  {
+    "id": "LO-158",
+    "text": "Demonstrate multithreading programming concepts to solve real world problems"
+  },
+  {
+    "id": "LO-159",
+    "text": "Design and implement GUI based applications."
+  },
+  {
+    "id": "LO-160",
+    "text": "Develop web application using JDBC and Servlets"
+  },
+  {
+    "id": "LO-161",
+    "text": "Understand organizational issues and its impact on organization and employees."
+  },
+  {
+    "id": "LO-162",
+    "text": "Identify industrial problems and suggest possible solutions."
+  },
+  {
+    "id": "LO-163",
+    "text": "Relate, apply and adapt relevant knowledge, concepts and theories within an industrial organization, practice and ethics."
+  },
+  {
+    "id": "LO-164",
+    "text": "Apply technical knowledge in an industry to solve real world problems."
+  },
+  {
+    "id": "LO-165",
+    "text": "Demonstrate effective group communication, presentation, self-management and report writing skills."
+  },
+  {
+    "id": "LO-166",
+    "text": "Learn about hardware component like RJ-45 connector, CAT-6 Cable etc."
+  },
+  {
+    "id": "LO-167",
+    "text": "Implement the various services of data link layer."
+  },
+  {
+    "id": "LO-168",
+    "text": "Configuration of router, hub, switch etc"
+  },
+  {
+    "id": "LO-169",
+    "text": "Configuration of server in programming mode they will learn about socket programming, client server programming for deeply understanding TCP/ IP model and various protocols."
+  },
+  {
+    "id": "LO-170",
+    "text": "Configure their own Network management systems"
+  },
+  {
+    "id": "LO-171",
+    "text": "Knowledge of the fundamentals of soft computing and applications of soft computing to solve various problems."
+  },
+  {
+    "id": "LO-172",
+    "text": "Understanding of Fuzzy logic and reasoning to handle uncertainty and solve engineering problems."
+  },
+  {
+    "id": "LO-173",
+    "text": "Understanding of the principles of Artificial Neural Network, different types of neural network and their applicability."
+  },
+  {
+    "id": "LO-174",
+    "text": "Familiar with the concepts of Genetic algorithms, and various techniques"
+  },
+  {
+    "id": "LO-175",
+    "text": "Classification problems and fundamentals of Machine Learning and classification and various applications."
+  },
+  {
+    "id": "LO-176",
+    "text": "Plan, design, create, and implement a web site;"
+  },
+  {
+    "id": "LO-177",
+    "text": "Use the concept of xml, css and DHTML"
+  },
+  {
+    "id": "LO-178",
+    "text": "Develop a static and dynamic websites."
+  },
+  {
+    "id": "LO-179",
+    "text": "Establish the database connectivity over a website."
+  },
+  {
+    "id": "LO-180",
+    "text": "Identify appropriate software design model based on requirement analysis."
+  },
+  {
+    "id": "LO-181",
+    "text": "Formulate Software Requirements Specification (SRS) reports for the real world application"
+  },
+  {
+    "id": "LO-182",
+    "text": "Translate a specification into a design and identify the components to build the architecture"
+  },
+  {
+    "id": "LO-183",
+    "text": "Plan a software engineering process to account for quality issues and non-functionalrequirements"
+  },
+  {
+    "id": "LO-184",
+    "text": "Estimate the work to be done, resources required and the schedule for a software project plan"
+  },
+  {
+    "id": "LO-185",
+    "text": "Understanding of scope & significance of OB with regard to cognitive framework."
+  },
+  {
+    "id": "LO-186",
+    "text": "Understanding of the behavior with overview of attitude, personality and perception."
+  },
+  {
+    "id": "LO-187",
+    "text": "To enhance overall skills for organizational effectiveness."
+  },
+  {
+    "id": "LO-188",
+    "text": "To develops the understanding of the how to create and sustain organization culture."
+  },
+  {
+    "id": "LO-189",
+    "text": "To develop problem-solving capabilities for effectively managing the organizational processes."
+  },
+  {
+    "id": "LO-190",
+    "text": "Identify the various attacks and its issues."
+  },
+  {
+    "id": "LO-191",
+    "text": "Learn usage of cryptographic algorithms for avoiding basic level threats."
+  },
+  {
+    "id": "LO-192",
+    "text": "Comprehend the issues involved in Integrity, Authentication and Key Management techniques."
+  },
+  {
+    "id": "LO-193",
+    "text": "Realize the importance of user authentication and Kerberos concepts."
+  },
+  {
+    "id": "LO-194",
+    "text": "Acquire the knowledge of network and system security domain."
+  },
+  {
+    "id": "LO-195",
+    "text": "Acquire the theoretical and conceptual foundations of distributed computing."
+  },
+  {
+    "id": "LO-196",
+    "text": "Conceptualize the ideas of distributed operating systems and its issues."
+  },
+  {
+    "id": "LO-197",
+    "text": "Understand the issues involved in distributed resource environment"
+  },
+  {
+    "id": "LO-198",
+    "text": "Realize the importance of transaction and how to recovery the system from deadlocks."
+  },
+  {
+    "id": "LO-199",
+    "text": "Explore the principles of fault tolerance and its protocols."
+  },
+  {
+    "id": "LO-200",
+    "text": "Grasp a fundamental understanding of goals, components and evolution of real time systems"
+  },
+  {
+    "id": "LO-201",
+    "text": "Explain the concepts of real time scheduling"
+  },
+  {
+    "id": "LO-202",
+    "text": "Learn the scheduling policies of modern operating systems"
+  },
+  {
+    "id": "LO-203",
+    "text": "Understand the resource access control techniques in real time systems."
+  },
+  {
+    "id": "LO-204",
+    "text": "Understand the concept of real time communication"
+  },
+  {
+    "id": "LO-205",
+    "text": "Demonstrate the mathematical foundations needed for data science."
+  },
+  {
+    "id": "LO-206",
+    "text": "Collect, explore, clean,and manipulate data."
+  },
+  {
+    "id": "LO-207",
+    "text": "Demonstrate the basic concepts of machine learning"
+  },
+  {
+    "id": "LO-208",
+    "text": "Implement models such as k-nearest Neighbors, Naive Bayes, linear and logistic regression, decision trees, neural networks and clustering."
+  },
+  {
+    "id": "LO-209",
+    "text": "Build data science applications using Python based toolkits."
+  },
+  {
+    "id": "LO-210",
+    "text": "Understand the basics of 8085 microprocessor and its instruction set."
+  },
+  {
+    "id": "LO-211",
+    "text": "Understand the 8086 architecture and its instruction set."
+  },
+  {
+    "id": "LO-212",
+    "text": "Understand the 8086 programming."
+  },
+  {
+    "id": "LO-213",
+    "text": "Know about the 8089 microprocessor's interfaces and their architecture"
+  },
+  {
+    "id": "LO-214",
+    "text": "Describe the evolution and various types of advanced micoprocesors."
+  },
+  {
+    "id": "LO-215",
+    "text": "Understand the application areas of IOT"
+  },
+  {
+    "id": "LO-216",
+    "text": "Explore interconnection and integration of the physical world"
+  },
+  {
+    "id": "LO-217",
+    "text": "Design & develop IOT Devices"
+  },
+  {
+    "id": "LO-218",
+    "text": "Realize the revolution of Internet in Mobile Devices, Cloud &Sensor Networks"
+  },
+  {
+    "id": "LO-219",
+    "text": "Understand the building blocks of Internet of Things and their characteristics."
+  },
+  {
+    "id": "LO-220",
+    "text": "Impart the trends in emerging field of wireless ad hoc and sensor networking."
+  },
+  {
+    "id": "LO-221",
+    "text": "Focus on layered communication modeling, such as the media access control and network layer."
+  },
+  {
+    "id": "LO-222",
+    "text": "Understand the basic concept of QoS and Multicast routing protocol."
+  },
+  {
+    "id": "LO-223",
+    "text": "Address quality of service issues and network reliability for transmission of real-time information."
+  },
+  {
+    "id": "LO-224",
+    "text": "Learn the various routing protocols of ad hoc and sensor networks"
+  },
+  {
+    "id": "LO-225",
+    "text": "Explain the working of a Quantum Computing program"
+  },
+  {
+    "id": "LO-226",
+    "text": "Understand its architecture and programing model"
+  },
+  {
+    "id": "LO-227",
+    "text": "Develop quantum logic gate circuits"
+  },
+  {
+    "id": "LO-228",
+    "text": "Develop quantum algorithm"
+  },
+  {
+    "id": "LO-229",
+    "text": "Program quantum algorithm on major toolkits"
+  },
+  {
+    "id": "LO-230",
+    "text": "Understand geometric modelling and Virtual environment."
+  },
+  {
+    "id": "LO-231",
+    "text": "Study about Virtual Hardware and Software"
+  },
+  {
+    "id": "LO-232",
+    "text": "Present geometric model for VR systems"
+  },
+  {
+    "id": "LO-233",
+    "text": "Identify which type hardware and software is suiable to design their own VR systems"
+  },
+  {
+    "id": "LO-234",
+    "text": "Develop Virtual Reality applications."
+  },
+  {
+    "id": "LO-235",
+    "text": "To impact knowledge on fuzzy logic principles"
+  },
+  {
+    "id": "LO-236",
+    "text": "To understand Fuzzy Logic Methods"
+  },
+  {
+    "id": "LO-237",
+    "text": "To understand the fuzzy logic controllers"
+  },
+  {
+    "id": "LO-238",
+    "text": "To understand the data analysis"
+  },
+  {
+    "id": "LO-239",
+    "text": "To understand the uses of fuzzy logic"
+  },
+  {
+    "id": "LO-240",
+    "text": "Discuss Artificial Intelligence techniques for building well engineered and efficient intelligent systems."
+  },
+  {
+    "id": "LO-241",
+    "text": "Describe the nature of AI problem and provide the solution as a particular type."
+  },
+  {
+    "id": "LO-242",
+    "text": "Learning optimization and inference algorithms for model learning"
+  },
+  {
+    "id": "LO-243",
+    "text": "Solve game challenging problems"
+  },
+  {
+    "id": "LO-244",
+    "text": "Design and develop programs for an agent to learn and act in a structured environment."
+  },
+  {
+    "id": "LO-245",
+    "text": "Understand, analyze and apply the role of languages HTML, JavaScript, JSP in the workings of the web and web applications"
+  },
+  {
+    "id": "LO-246",
+    "text": "Analyze a web page and identify its elements and attributes."
+  },
+  {
+    "id": "LO-247",
+    "text": "Able to develop web pages using JDBC"
+  },
+  {
+    "id": "LO-248",
+    "text": "Able to build web applications using JSP."
+  },
+  {
+    "id": "LO-249",
+    "text": "Develop and Deploy an Enterprise Application."
+  },
+  {
+    "id": "LO-250",
+    "text": "Apply software development practices in projects"
+  },
+  {
+    "id": "LO-251",
+    "text": "Express project requirements in IEEE SRS format"
+  },
+  {
+    "id": "LO-252",
+    "text": "Design using standard design methodologies"
+  },
+  {
+    "id": "LO-253",
+    "text": "Implement the project using a programming language and platform"
+  },
+  {
+    "id": "LO-254",
+    "text": "Test and debug the project"
+  },
+  {
+    "id": "LO-255",
+    "text": "Discover potential research areas in the field of information technology"
+  },
+  {
+    "id": "LO-256",
+    "text": "Create very precise specifications of the IT solution to be designed"
+  },
+  {
+    "id": "LO-257",
+    "text": "Have introduction to the vast array of literature available about the various research challenges in the field of IT"
+  },
+  {
+    "id": "LO-258",
+    "text": "Use all concepts of IT in creating a solution for a problem"
+  },
+  {
+    "id": "LO-259",
+    "text": "Have a glimpse of real world problems and challenges that need IT-based solutions."
+  },
+  {
+    "id": "LO-260",
+    "text": "Understand complexity of Machine Learning algorithms and their limitations;"
+  },
+  {
+    "id": "LO-261",
+    "text": "Understand modern notions in data analysis oriented computing;"
+  },
+  {
+    "id": "LO-262",
+    "text": "Capableof applying common Machine Learning algorithms in practice and implementing their own"
+  },
+  {
+    "id": "LO-263",
+    "text": "Capable of performing distributed computations"
+  },
+  {
+    "id": "LO-264",
+    "text": "Capable of performing experiments in Machine Learning using real-world data"
+  },
+  {
+    "id": "LO-265",
+    "text": "Understand Blockchain technology."
+  },
+  {
+    "id": "LO-266",
+    "text": "Develop Blockchain based solutions and write smart contract using Hyperledger Fabric and Ethereum frameworks."
+  },
+  {
+    "id": "LO-267",
+    "text": "Build and deploy Blockchain application for on premise and cloud-based architecture."
+  },
+  {
+    "id": "LO-268",
+    "text": "Develop the concepts for safe use of crypto currency"
+  },
+  {
+    "id": "LO-269",
+    "text": "Integrate ideas from various domains and implement them using Blockchain technology"
+  },
+  {
+    "id": "LO-270",
+    "text": "Impart knowledge of mobile and wireless computing systems and techniques."
+  },
+  {
+    "id": "LO-271",
+    "text": "Understand the knowledge of wireless network"
+  },
+  {
+    "id": "LO-272",
+    "text": "Understand the concepts of security and failure detection and recovery strategies."
+  },
+  {
+    "id": "LO-273",
+    "text": "Understand the concepts routing protocols."
+  },
+  {
+    "id": "LO-274",
+    "text": "Understand the working of mobile tracking in wireless network"
+  },
+  {
+    "id": "LO-275",
+    "text": "Understand the notion of an agent, how agents are distinct from other software paradigms"
+  },
+  {
+    "id": "LO-276",
+    "text": "Understand the key issues associated with constructing agents capable of intelligent autonomous action, and the main approaches taken to developing such agents"
+  },
+  {
+    "id": "LO-277",
+    "text": "Understand the key issues in designing societies of agents that can effectively cooperate in order to solve problems."
+  },
+  {
+    "id": "LO-278",
+    "text": "Understand the key types of multi-agent interactions possible in such systems"
+  },
+  {
+    "id": "LO-279",
+    "text": "Understand the main application areas of agent-based solutions, and be able to develop a meaningful agent-based system using a contemporary agent development platform."
+  },
+  {
+    "id": "LO-280",
+    "text": "Interpret the contribution of data warehousing and data mining to the decision-support level of organizations"
+  },
+  {
+    "id": "LO-281",
+    "text": "Evaluate different models used for OLAP and data preprocessing"
+  },
+  {
+    "id": "LO-282",
+    "text": "Categorize and carefully differentiate between situations for applying different data-mining techniques: frequent pattern mining, association, correlation, classification, prediction, and cluster and outlier analysis"
+  },
+  {
+    "id": "LO-283",
+    "text": "Design and implement systems for data mining"
+  },
+  {
+    "id": "LO-284",
+    "text": "Evaluate the performance of different data-mining algorithms"
+  },
+  {
+    "id": "LO-285",
+    "text": "Apply fuzzy logic and reasoning to handle uncertainty and solve engineering problems"
+  },
+  {
+    "id": "LO-286",
+    "text": "Implement neural networks to pattern classification and regression problems."
+  },
+  {
+    "id": "LO-287",
+    "text": "Apply genetic algorithms to combinatorial optimization problems."
+  },
+  {
+    "id": "LO-288",
+    "text": "Apply to design their own optimized algorithm and fuzzy sets for problem solving and decision making."
+  },
+  {
+    "id": "LO-289",
+    "text": "Mining the bulk of data present in the warehouse"
+  },
+  {
+    "id": "LO-290",
+    "text": "Impart the knowledge of cloud computing and technologies, issues in cloud computing etc."
+  },
+  {
+    "id": "LO-291",
+    "text": "identify the architecture, infrastructure and delivery models of cloud computing"
+  },
+  {
+    "id": "LO-292",
+    "text": "Apply suitable virtualization concept."
+  },
+  {
+    "id": "LO-293",
+    "text": "Choose the appropriate Programming Models and approach for Services"
+  },
+  {
+    "id": "LO-294",
+    "text": "Address the core issues of cloud computing such as security, privacy and interoperability"
+  },
+  {
+    "id": "LO-295",
+    "text": "Learn basic model of reliability and faults"
+  },
+  {
+    "id": "LO-296",
+    "text": "Understand the principles behind reliability"
+  },
+  {
+    "id": "LO-297",
+    "text": "Understand Hardware fault tolerance"
+  },
+  {
+    "id": "LO-298",
+    "text": "Understand Software fault tolerance"
+  },
+  {
+    "id": "LO-299",
+    "text": "Learn the programming tools in designing reliable systems"
+  },
+  {
+    "id": "LO-300",
+    "text": "Produce the quality product without defects."
+  },
+  {
+    "id": "LO-301",
+    "text": "Complete the task with better quality on time."
+  },
+  {
+    "id": "LO-302",
+    "text": "Format their process of modelling"
+  },
+  {
+    "id": "LO-303",
+    "text": "Streamline their activities to yield better result"
+  },
+  {
+    "id": "LO-304",
+    "text": "Manage the people and control the defects."
+  },
+  {
+    "id": "LO-305",
+    "text": "Make use of Data sets in implementing the machine learning algorithms"
+  },
+  {
+    "id": "LO-306",
+    "text": "Understand the implementation procedures for the machine learning algorithms."
+  },
+  {
+    "id": "LO-307",
+    "text": "Design Java/Python programs for various Learning algorithms."
+  },
+  {
+    "id": "LO-308",
+    "text": "Apply appropriate data sets to the Machine Learning algorithms."
+  },
+  {
+    "id": "LO-309",
+    "text": "Identify and apply Machine Learning algorithms to solve real world problems."
+  },
+  {
+    "id": "LO-310",
+    "text": "Take up investigative study in the broad field of Computer Science & Engineering, either fully theoretical/practical or involving both the theoretical and practical work"
+  },
+  {
+    "id": "LO-311",
+    "text": "Take up project assigned by the Department on an individual basis or in a group under the guidance of a supervisor"
+  },
+  {
+    "id": "LO-312",
+    "text": "Survey and study published literature on the assigned topic, identify the research gaps and work out a systematic approach to the problem related to the assigned topic"
+  },
+  {
+    "id": "LO-313",
+    "text": "Conduct preliminary analysis, modeling, simulation and experiment"
+  },
+  {
+    "id": "LO-314",
+    "text": "Prepare a report on the study conducted and make presentation before the Department"
+  },
+  {
+    "id": "LO-315",
+    "text": "Understand organizational issues and its impact on organization and employees."
+  },
+  {
+    "id": "LO-316",
+    "text": "Identify industrial problems and suggest possible solutions."
+  },
+  {
+    "id": "LO-317",
+    "text": "Relate, apply and adapt relevant knowledge, concepts and theories within an industrial organization, practice and ethics."
+  },
+  {
+    "id": "LO-318",
+    "text": "Apply technical knowledge in an industry to solve real world problems."
+  },
+  {
+    "id": "LO-319",
+    "text": "Demonstrate effective group communication, presentation, self-management and report writing skills."
+  },
+  {
+    "id": "LO-320",
+    "text": "Helps to know the application of engineering to economics."
+  },
+  {
+    "id": "LO-321",
+    "text": "The learning outcome for the students would be they get the actual difference between micro and macro economics."
+  },
+  {
+    "id": "LO-322",
+    "text": "It gives students an introduction to the tools used by micro-economists and serves as a foundation to many economics courses that follow such as labor, financial and industrial economics."
+  },
+  {
+    "id": "LO-323",
+    "text": "Provide the ability to use theories in analyzing economic phenomena for solving monetary problems."
+  },
+  {
+    "id": "LO-324",
+    "text": "Helps in understanding the concept of banking operations in India."
+  },
+  {
+    "id": "LO-325",
+    "text": "Understanding the fundamentals of digital image processing."
+  },
+  {
+    "id": "LO-326",
+    "text": "Knowledge and understanding of image processing in spatial domain."
+  },
+  {
+    "id": "LO-327",
+    "text": "Familiar with concepts of digital image processing in Frequency domain."
+  },
+  {
+    "id": "LO-328",
+    "text": "Fundamentals of color image processing and Morphological Image Processing."
+  },
+  {
+    "id": "LO-329",
+    "text": "Knowledge and understanding of image Registration and image features."
+  },
+  {
+    "id": "LO-330",
+    "text": "Develop assembly language programs for 8051 and its applications in the field of information technology using different types of interfacing"
+  },
+  {
+    "id": "LO-331",
+    "text": "Acquire knowledge on embedded systems basics and describe the architecture and operations of ARM processor"
+  },
+  {
+    "id": "LO-332",
+    "text": "Develop skills in writing small programs for ARM processor"
+  },
+  {
+    "id": "LO-333",
+    "text": "Apply different types of interfaces with interrupt handling mechanism"
+  },
+  {
+    "id": "LO-334",
+    "text": "Understand the multiple process operating environments and use standard system call interfaces to monitor and control processes"
+  },
+  {
+    "id": "LO-335",
+    "text": "Relate and safeguard their organizations from the scenarios of passive and active attacks."
+  },
+  {
+    "id": "LO-336",
+    "text": "Understand the terminologies and vulnerabilities in the field of cyber security"
+  },
+  {
+    "id": "LO-337",
+    "text": "Demonstrate the use of anti-malware tools for enhancing system network protection"
+  },
+  {
+    "id": "LO-338",
+    "text": "Understand and analyze digital forensics with evidence"
+  },
+  {
+    "id": "LO-339",
+    "text": "Understand the basic principles of Ethical Hackingalong with its techniques."
+  },
+  {
+    "id": "LO-340",
+    "text": "Measure and analyze the quantity of information associated to events or random variables."
+  },
+  {
+    "id": "LO-341",
+    "text": "Determine the limits of communications systems in terms of source and channel coding."
+  },
+  {
+    "id": "LO-342",
+    "text": "Examine linear block codes and the algebraic structures used in the construction and in the decoding of cyclic codes."
+  },
+  {
+    "id": "LO-343",
+    "text": "Calculate the error probability of a channel coding system with hard or soft decoding."
+  },
+  {
+    "id": "LO-344",
+    "text": "Describe the coding techniques used in composite codes like LDPC and turbo codes that can reach the channel capacity"
+  },
+  {
+    "id": "LO-345",
+    "text": "Appreciate the fundamentals and describe what Big Data Analytics is."
+  },
+  {
+    "id": "LO-346",
+    "text": "Understand the Big Data flow and apply necessary components to build a Big Data Analytics System.I."
+  },
+  {
+    "id": "LO-347",
+    "text": "Identify and successfully apply appropriate techniques and tools to solve Big Data problems."
+  },
+  {
+    "id": "LO-348",
+    "text": "Analyze the requirements for a Big Data Analytics System for departmental organizational requirements using Hadoop."
+  },
+  {
+    "id": "LO-349",
+    "text": "Understand Big Data ecosystem, specifically PIG and Hive."
+  },
+  {
+    "id": "LO-350",
+    "text": "Extend further the investigative study taken up under Project-I, either fully theoretical/practical or involving both the theoretical and practical work under the guidance of a supervisor from the Department alone or jointly with a supervisor drawn from R&D laboratory/industry and obtain a good training in R&D work and technical leadership"
+  },
+  {
+    "id": "LO-351",
+    "text": "Review and finalize the approach to the problem relating to the assigned topic and prepare an action plan for preparing conducting the investigation and assign responsibilities for team work"
+  },
+  {
+    "id": "LO-352",
+    "text": "Conduct detailed analysis, modeling, simulation, design, problem solving or experiment as needed on the assigned topic"
+  },
+  {
+    "id": "LO-353",
+    "text": "Develop product/process, test, draw results and conclusions, and give direction for future research and prepare a paper for conference presentation/publication in journals, if possible"
+  },
+  {
+    "id": "LO-354",
+    "text": "Prepare a project report in the standard format for being evaluated by the Department and make final presentation on the project"
+  },
+  {
+    "id": "LO-355",
+    "text": "Express themselves fluently and appropriately in social and professional contexts"
+  },
+  {
+    "id": "LO-356",
+    "text": "Develop the sub-skills required for paper presentation and group discussions"
+  },
+  {
+    "id": "LO-357",
+    "text": "Acquire the soft skills and interpersonal skills which will help them in their workplace needed for these functions"
+  },
+  {
+    "id": "LO-358",
+    "text": "Collect materials from books, Internet, journals, and newspapers for the seminar theme and prepare a short seminar report"
+  },
+  {
+    "id": "LO-359",
+    "text": "Make presentation on the topic, answer the queries/questions that come forward, clarify and supplement if necessary, and submit a report"
+  }
+]

@@ -1,0 +1,613 @@
+# ALL COURSE OUTCOMES - B.TECH COMPUTER SCIENCE & ENGINEERING
+## G.B.Pant Institute of Engineering & Technology, PauriGarhwal
+
+---
+
+## SEMESTER I/II (COMMON FOR ALL BRANCHES)
+
+### TCS-111/121 Programming For Problem Solving
+**Course Outcomes:**
+- Illustrate the flowchart and design analgorithm for a given problem and to develop C programs using operators
+- Develop conditional and iterativestatements to write C programs
+- Exercise user defined functions to solvereal time problems
+- Use Pointers toaccess arrays, strings and functions.
+- Exercise user defined data typesincluding structures and unions and input and output files to solve problems
+
+### PCS-111/121 Programming For Problem Solving Lab
+**Course Outcomes:**
+- Develop conditional and iterativestatementsprograms
+- Exercise user defined functions to solvereal time problems
+- Develop programs using pointers, strings and arrays.
+- Develop C programs using pointers andto allocate memory using dynamic memorymanagement functions.
+- Exercise files concept to show input andoutput of files in C
+
+---
+
+## SEMESTER III
+
+### TCS-231/TOE-41 Data Structure
+**Course Outcomes:**
+- Understand the concept of the algoritm to determine time and computational complexity, dynamic memory management.
+- Solve the search probem in real scenario's.
+- Understand the data like arrays, linked lists, stack and queues.
+- Solve the problems in trees and graphs.
+- Understand and implement the algorithms for sorting searching, delection and insertion.
+
+### TCS-232 Discrete Structure
+**Course Outcomes:**
+- Express it in terms of predicates, quantifiers and logical connectives
+- Derive the solution using deductive logic and prove the solution based on logicalinference
+- Classify mathematical problem and its algebraicstructure
+- Evaluate Boolean functions and simplify expressions using the properties of Boolean algebra
+- Develop the given problem as graph networks and solve with techniques of graphtheory
+
+### TCS-233/TOE-40 Database Management Systems
+**Course Outcomes:**
+- Understand the concepts of Database Management System, DDL, DML and requirement design the databases using E R method for real life applications.
+- Knowledge and understanding of Relational algebra, Structured Query Language and ability to generate queries for real life applications.
+- Knowledge of relational Database design and Improve the database design by normalization and Familiar with the concepts of indexing methods including B tree, and hashing.
+- Understanding the concepts of transaction-processing system, ACID (atomicity, consistency, isolation, and durability) properties and concurrency control mechanism.
+- Knowledge of advanced topic in DBMS: object oriented, object relational database and various applications
+
+### TEC-232 Digital Electronics
+**Course Outcomes:**
+- Understand the working of logicgates.
+- Understand the working of synchronous and asynchronous counters
+- Design and implement Combinational and Sequentiallogiccircuits.
+- Understand the process of Analog to Digital conversion and Digital to Analog conversion.
+- Use PLDs to implement the given logicalproblem.
+
+### TCS-234 Python Programming
+**Course Outcomes:**
+- Developessentialprogrammingskillsincomputerprogrammingconceptslikedatatypes
+- Applythe basicsofprogramminginthePython language
+- Solvecodingtasksrelatedconditionalexecution,loops
+- Develop user defined function and standard modules in python programming.
+- Solvecodingtasksrelatedtothefundamentalnotionsandtechniquesusedinobject-orientedprogramming.
+
+### TAH-234 Constitution of India
+**Course Outcomes:**
+- CO-1 Ability to understand the concept of Constitution
+- CO-2 Ability to understand the Role of Indian constitution.
+- CO-3 Overview of various Constitutional Rights and Duties
+- CO-4 Ability to understand the Tri-Level Democratic arrangement.
+- CO-5 Ability to gather the knowledge regarding Administration and Election Commission.
+
+### PCS-231 Data Structure Lab
+**Course Outcomes:**
+- Develop programs using dynamic memory allocation and linked list ADT.
+- Apply Stack and Queue to solve problems.
+- Implement the concept of hashing in real time dictionaries.
+- Identify and implement the suitable data structures for the given problem.
+- Solve real world problems by finding minimum spanning tree and Shortest path algorithm.
+
+### PCS-233 Database Management System Lab
+**Course Outcomes:**
+- Understand, appreciate and effectively explain the concepts of database Technologies.
+- Declare and enforce integrity constraints on a database using RDBMS.
+- Devise a complex query using SQL DML/DDL commands.
+- Create views and use in-built functions to query a database.
+- Write PL/SQL programs including stored procedures, stored functions and triggers.
+
+### PEC-232 Digital Electronics Lab
+**Course Outcomes:**
+- Describe the basic concept of Number System and number Conversion.
+- Implement different methods used for simplification of Boolean functions.
+- Implement the concept of multiplexer
+- Implement and analyse the combinational circuits and Sequential circuits.
+- Implement synchronous sequential circuits.
+
+### PCS-232 Industrial Training
+**Course Outcomes:**
+- Understand organizational issues and its impact on organization and employees.
+- Identify industrial problems and suggest possible solutions.
+- Relate, apply and adapt relevant knowledge, concepts and theories within an industrial organization, practice and ethics.
+- Apply technical knowledge in an industry to solve real world problems.
+- Demonstrate effective group communication, presentation, self-management and report writing skills.
+
+### PCS-234 Python Programming Lab
+**Course Outcomes:**
+- Run Python Programs at interactive and script mode.
+- Implement Python programs with conditionals and loops.
+- Develop Python programs stepwise by defining functions and calling them.
+- Use Python lists, tuples and dictionaries for representing compound data.
+- Read and write data from/to files in Python
+
+---
+
+## SEMESTER IV
+
+### TCS-241 Computer Organization & Architecture
+**Course Outcomes:**
+- Draw the functional block diagram of a single bus architecture of a computer and describe the function of the instruction execution cycle, RTL interpretation of instructions.
+- Given a CPU organization and instruction, design a memory module and analyze its operation by interfacing with theCPU.
+- Design the connection between I/O address from the CPU and the I/O interface.
+- Understand the concept of Pipelining and multiprocessor.
+- Draw a flowchart for concurrent access to memory and cache coherency in parallel processors.
+
+### TCS-242/TOE-042 Operating Systems
+**Course Outcomes:**
+- Create processes andthreads.
+- Develop algorithms for process scheduling for a given specification of CPU utilization, Throughput, Turnaround Time, Waiting Time, ResponseTime.
+- Develop the techniques for optimally allocating memory to processes by increasing memory utilization and for improving the accesstime.
+- Design and implement file managementsystem.
+- Develop the I/O management functions in OS
+
+### TCS-243/TOE-43 Object Oriented Programming
+**Course Outcomes:**
+- Recognise features of object-oriented design such as encapsulation, polymorphism, inheritance, and composition of systems based on objectidentity.
+- Name and apply some common object-oriented design patterns and give examples of theiruse.
+- Specify simple abstract data types and design implementations, using abstraction functions to documentthem.
+- Design the convenient way for handling of problem using templates and use simple try-catch blocks for Exception Handling.
+- Manage I/O streams and File I/O oriented interactions.
+
+### TCS-244 Theory of Computation
+**Course Outcomes:**
+- Write a formal notation for strings, languages andmachines.
+- Design finite automata to accept a set of strings of alanguage.
+- Design context free grammars to generate strings of context free language
+- Determine equivalence of languages accepted by Push Down Automata and languages generated by context freegrammars
+- Distinguish between computability and non-computability and Decidability andundecidability.
+
+### TAH-243 Statistical Methods
+**Course Outcomes:**
+(Not explicitly listed in the provided document with CO format)
+
+### TAH-246 Essence of Indian Traditional Knowledge
+**Course Outcomes:**
+- CO-1 Understand philosophy of Indian culture.
+- CO-2 Distinguish the Indian languages
+- CO-3 Learn the philosophy of ancient, medieval and modern India.
+- CO-4 Acquire the information about the fine arts in India. Know the contribution of scientists of different eras.
+- CO-5 To gather the knowledge regarding Administration and Election Commission.
+
+### PCS-241 Computer Organization & Architecture Lab
+**Course Outcomes:**
+- Recognize basic logic gates with IC chips.
+- Design combinational circuits using IC Chips.
+- Connect the theory of computer organization with hardware.
+- Implement the concept of adders
+- Apply fundamentals of digital design and extend the learning to design sequential circuits.
+
+### PCS-242 Operating Systems Lab
+**Course Outcomes:**
+- Understand the system calls and I/O system calls in UNIX
+- Evaluate the process scheduling algorithms FCFS,SJF, Priority and Round robin
+- Simulate the process communication through various techniques
+- Simulate memory management schemes
+- Simulate File allocation Techniques
+
+### PCS-243 Object Oriented Programming (Pr)
+**Course Outcomes:**
+- Design object oriented programs with static members and friend functions using C++
+- Implement C++ programs with operator overloading and type conversions
+- Develop class templates for various data structures like stack, queue and linked list.
+- Create classes with necessary exception handling
+- Construct simple test applications using polymorphism.
+
+### PCS-244 Unix/Linux Programming Lab
+**Course Outcomes:**
+- To demonstrate the basic knowledge of Linux commands and file handling utilities by using Linux shell environment.
+- To evaluate the concept of shell scripting programs by using an AWK and SED commands.
+- Use tracing mechanisms for debugging.
+- Compile source code into object and executable modules.
+- Use advanced network tools.
+
+---
+
+## SEMESTER V
+
+### TCS-351 Design & Analysis of Algorithms
+**Course Outcomes:**
+- Analyze worst-case running times of algorithms based on asymptotic analysis and justify the correctness of algorithms.
+- Describe the greedy paradigm and explain when an algorithmic design situation calls for it. For a given problem develop the greedyalgorithms.
+- Describe the divide-and-conquer paradigm and explain when an algorithmic design situation calls for it. Synthesize divide-and-conquer algorithms. Derive and solve recurrence relation.
+- Describe the dynamic-programming paradigm and explain when an algorithmic design situation calls for it.
+- Analyze randomized algorithms and approximation algorithms.
+
+### TCS-352/TOE-45 JAVA Programming
+**Course Outcomes:**
+- Write Java programs with properly designed constants, variables, objects, methods and reusability functionality
+- Learn how and where to implement interface and exception handling concepts
+- Write multi-threaded programming concepts for concurrency control based applications
+- Construct GUI basedJAVA enterprise applications
+- Develop web applications using JDBC, RMI and Servlet methodologies.
+
+### TCS-353 Complier Design
+**Course Outcomes:**
+- Develop the lexicalanalyser
+- Design top-down and bottom-up parsers
+- Develop syntax directed translationschemes
+- Draw DAG representation for problem statement
+- Develop algorithms to generate code for a targetmachine
+
+### TCS-354/TOE-44 Computer Networks
+**Course Outcomes:**
+- Explain the functions of the different layer of the OSIProtocol.
+- Draw the functional block diagram of wide-area networks (WANs), local area networks (LANs) and Wireless LANs (WLANs).
+- Address the issues related to IPv4 and IPv6
+- Configure DNS, TELNET, EMAIL, File Transfer Protocol (FTP), WWW, HTTP, SNMP
+- Configure Bluetooth, Firewalls using open source available software andtools.
+
+### ECS-311 Graph Theory
+**Course Outcomes:**
+- Understand the basic concept of a walk, path and circuit in a graph.
+- To perform the basic operation of Euler graph and digraph
+- Discuss the various spanning trees algorithms.
+- Understand the concept of edge connectivity, vertex connectivity and separable graphs.
+- Derive the relations between the reduced incidence matrix, the fundamental cycle matrix, and the fundamental cut-set matrix of a graph G.
+
+### ECS-312 Queuing Theory and Modeling
+**Course Outcomes:**
+- Have a fundamental knowledge of the basic concepts of probability
+- Have a well-founded knowledge of various probability distributions which can describe real life phenomena
+- Acquire skills in estimating expected values of variables and handling situations involving more than one random variable and functions of random variables
+- Understand the stochastic processes and phenomena which evolve with respect to time in a probabilistic manner
+- Expose the basic characteristic features of Markov chains, queuing systems and queuing models
+
+### ECS-313 Fault Tolerant Computing
+**Course Outcomes:**
+- Understand research problems and challenges in fault tolerance computing
+- Identify the state-of-the-art techniques and tools to address research problems and challenges;
+- Develop strong technical reviewing, writing, and presentation skills.
+- Design a more reliable systems that can tolerate S/W faults
+- Design a more reliable systems that can tolerate H/W faults
+
+### ECS-314 Computer Graphics
+**Course Outcomes:**
+- Develop the understanding of fundamentals of Graphics concepts, and standards
+- Understand the algorithms that form the foundation of computer graphics.
+- Provide 3D representation for their applications
+- Understand varios transformation techniques and their application
+- Interpret parallel and oblique projections and their applications
+
+### PCS-351 Design & Analysis of Algorithms Lab
+**Course Outcomes:**
+- Solve recurrence equations by considering time and space complexity.
+- Analyze the complexities of various problems in different domains.
+- Solve the problems that comprises of shortest route issue.
+- Solve the problems that address the issue of dynamic programming
+- Synthesize efficient algorithms in common engineering design situations.
+
+### PCS-352 Java Programming Lab
+**Course Outcomes:**
+- Develop programs using object oriented concepts using arrays and string classes
+- Demonstrate features such as Inheritance, Interfaces with access specifiers and exception handling
+- Demonstrate multithreading programming concepts to solve real world problems
+- Design and implement GUI based applications.
+- Develop web application using JDBC and Servlets
+
+### PCS-353 Industrial Training
+**Course Outcomes:**
+- Understand organizational issues and its impact on organization and employees.
+- Identify industrial problems and suggest possible solutions.
+- Relate, apply and adapt relevant knowledge, concepts and theories within an industrial organization, practice and ethics.
+- Apply technical knowledge in an industry to solve real world problems.
+- Demonstrate effective group communication, presentation, self-management and report writing skills.
+
+### PCS-354 Computer Networks Lab
+**Course Outcomes:**
+- Learn about hardware component like RJ-45 connector, CAT-6 Cable etc.
+- Implement the various services of data link layer.
+- Configuration of router, hub, switch etc
+- Configuration of server in programming mode they will learn about socket programming, client server programming for deeply understanding TCP/ IP model and various protocols.
+- Configure their own Network management systems
+
+---
+
+## SEMESTER VI
+
+### TCS-361/TOE-50 Artificial Intelligence
+**Course Outcomes:**
+- Knowledge of the fundamentals of soft computing and applications of soft computing to solve various problems.
+- Understanding of Fuzzy logic and reasoning to handle uncertainty and solve engineering problems.
+- Understanding of the principles of Artificial Neural Network, different types of neural network and their applicability.
+- Familiar with the concepts of Genetic algorithms, and various techniques
+- Classification problems and fundamentals of Machine Learning and classification and various applications.
+
+### TCS-362/TOE-48 Web Technology
+**Course Outcomes:**
+- Plan, design, create, and implement a web site;
+- Use the concept of xml, css and DHTML
+- Develop a static and dynamic websites.
+- Establish the database connectivity over a website.
+
+### TCS-363 Software Engineering
+**Course Outcomes:**
+- Identify appropriate software design model based on requirement analysis.
+- Formulate Software Requirements Specification (SRS) reports for the real world application
+- Translate a specification into a design and identify the components to build the architecture
+- Plan a software engineering process to account for quality issues and non-functionalrequirements
+- Estimate the work to be done, resources required and the schedule for a software project plan
+
+### TAH-362 Organizational Behaviour
+**Course Outcomes:**
+- CO-1 Understanding of scope & significance of OB with regard to cognitive framework.
+- CO-2 Understanding of the behavior with overview of attitude, personality and perception.
+- CO-3 To enhance overall skills for organizational effectiveness.
+- CO-4 To develops the understanding of the how to create and sustain organization culture.
+- CO-5 To develop problem-solving capabilities for effectively managing the organizational processes.
+
+### ECS-321 Cryptography & Network Security
+**Course Outcomes:**
+- Identify the various attacks and its issues.
+- Learn usage of cryptographic algorithms for avoiding basic level threats.
+- Comprehend the issues involved in Integrity, Authentication and Key Management techniques.
+- Realize the importance of user authentication and Kerberos concepts.
+- Acquire the knowledge of network and system security domain.
+
+### ECS-322 Distributed Systems
+**Course Outcomes:**
+- Acquire the theoretical and conceptual foundations of distributed computing.
+- Conceptualize the ideas of distributed operating systems and its issues.
+- Understand the issues involved in distributed resource environment
+- Realize the importance of transaction and how to recovery the system from deadlocks.
+- Explore the principles of fault tolerance and its protocols.
+
+### ECS-323 Real Time System
+**Course Outcomes:**
+- Grasp a fundamental understanding of goals, components and evolution of real time systems
+- Explain the concepts of real time scheduling
+- Learn the scheduling policies of modern operating systems
+- Understand the resource access control techniques in real time systems.
+- Understand the concept of real time communication
+
+### ECS-324 Data Science
+**Course Outcomes:**
+- Demonstrate the mathematical foundations needed for data science.
+- Collect, explore, clean,and manipulate data.
+- Demonstrate the basic concepts of machine learning
+- Implement models such as k-nearest Neighbors, Naive Bayes, linear and logistic regression, decision trees, neural networks and clustering.
+- Build data science applications using Python based toolkits.
+
+### ECS-325 Microprocessors
+**Course Outcomes:**
+- Understand the basics of 8085 microprocessor and its instruction set.
+- Understand the 8086 architecture and its instruction set.
+- Understand the 8086 programming.
+- Know about the 8089 microprocessor's interfaces and their architecture
+- Describe the evolution and various types of advanced micoprocesors.
+
+### ECS-331 Internet of Things (IOT)
+**Course Outcomes:**
+- Understand the application areas of IOT
+- Explore interconnection and integration of the physical world
+- Design & develop IOT Devices
+- Realize the revolution of Internet in Mobile Devices, Cloud &Sensor Networks
+- Understand the building blocks of Internet of Things and their characteristics.
+
+### ECS-332/TOE-49 Adhoc and Sensor Network
+**Course Outcomes:**
+- Impart the trends in emerging field of wireless ad hoc and sensor networking.
+- Focus on layered communication modeling, such as the media access control and network layer.
+- Understand the basic concept of QoS and Multicast routing protocol.
+- Address quality of service issues and network reliability for transmission of real-time information.
+- Learn the various routing protocols of ad hoc and sensor networks
+
+### ECS-333 Quantum Computing
+**Course Outcomes:**
+- Explain the working of a Quantum Computing program
+- Understand its architecture and programing model
+- Develop quantum logic gate circuits
+- Develop quantum algorithm
+- Program quantum algorithm on major toolkits
+
+### ECS-334 Augemented Reality (AR)/Virtual Reality (VR)
+**Course Outcomes:**
+- Understand geometric modelling and Virtual environment.
+- Study about Virtual Hardware and Software
+- Present geometric model for VR systems
+- Identify which type hardware and software is suiable to design their own VR systems
+- Develop Virtual Reality applications.
+
+### ECS-335 Fuzzy Logic
+**Course Outcomes:**
+- To impact knowledge on fuzzy logic principles
+- To understand Fuzzy Logic Methods
+- To understand the fuzzy logic controllers
+- To understand the data analysis
+- To understand the uses of fuzzy logic
+
+### PCS-361 Artificial Intelligence Lab
+**Course Outcomes:**
+- Discuss Artificial Intelligence techniques for building well engineered and efficient intelligent systems.
+- Describe the nature of AI problem and provide the solution as a particular type.
+- Learning optimization and inference algorithms for model learning
+- Solve game challenging problems
+- Design and develop programs for an agent to learn and act in a structured environment.
+
+### PCS-362 Web Technology Lab
+**Course Outcomes:**
+- Understand, analyze and apply the role of languages HTML, JavaScript, JSP in the workings of the web and web applications
+- Analyze a web page and identify its elements and attributes.
+- Able to develop web pages using JDBC
+- Able to build web applications using JSP.
+- Develop and Deploy an Enterprise Application.
+
+### PCS-363 Software Engineering Lab
+**Course Outcomes:**
+- Apply software development practices in projects
+- Express project requirements in IEEE SRS format
+- Design using standard design methodologies
+- Implement the project using a programming language and platform
+- Test and debug the project
+
+### PCS-364 Mini Project
+**Course Outcomes:**
+- Discover potential research areas in the field of information technology
+- Create very precise specifications of the IT solution to be designed
+- Have introduction to the vast array of literature available about the various research challenges in the field of IT
+- Use all concepts of IT in creating a solution for a problem
+- Have a glimpse of real world problems and challenges that need IT-based solutions.
+
+---
+
+## SEMESTER VII
+
+### TCS-471/TOE-46 Machine Learning
+**Course Outcomes:**
+- Understand complexity of Machine Learning algorithms and their limitations;
+- Understand modern notions in data analysis oriented computing;
+- Capableof applying common Machine Learning algorithms in practice and implementing their own
+- Capable of performing distributed computations
+- Capable of performing experiments in Machine Learning using real-world data
+
+### ECS-441 Blockchain
+**Course Outcomes:**
+- Understand Blockchain technology.
+- Develop Blockchain based solutions and write smart contract using Hyperledger Fabric and Ethereum frameworks.
+- Build and deploy Blockchain application for on premise and cloud-based architecture.
+- Develop the concepts for safe use of crypto currency
+- Integrate ideas from various domains and implement them using Blockchain technology
+
+### ECS-442/TOE-47 Mobile Computing
+**Course Outcomes:**
+- Impart knowledge of mobile and wireless computing systems and techniques.
+- Understand the knowledge of wireless network
+- Understand the concepts of security and failure detection and recovery strategies.
+- Understand the concepts routing protocols.
+- Understand the working of mobile tracking in wireless network
+
+### ECS-443 Multi-Agent Intelligent Systems
+**Course Outcomes:**
+- Understand the notion of an agent, how agents are distinct from other software paradigms
+- Understand the key issues associated with constructing agents capable of intelligent autonomous action, and the main approaches taken to developing such agents
+- Understand the key issues in designing societies of agents that can effectively cooperate in order to solve problems.
+- Understand the key types of multi-agent interactions possible in such systems
+- Understand the main application areas of agent-based solutions, and be able to develop a meaningful agent-based system using a contemporary agent development platform.
+
+### ECS-455 Data Mining
+**Course Outcomes:**
+- Interpret the contribution of data warehousing and data mining to the decision-support level of organizations
+- Evaluate different models used for OLAP and data preprocessing
+- Categorize and carefully differentiate between situations for applying different data-mining techniques: frequent pattern mining, association, correlation, classification, prediction, and cluster and outlier analysis
+- Design and implement systems for data mining
+- Evaluate the performance of different data-mining algorithms
+
+### ECS-451 Soft Computing
+**Course Outcomes:**
+- Apply fuzzy logic and reasoning to handle uncertainty and solve engineering problems
+- Implement neural networks to pattern classification and regression problems.
+- Apply genetic algorithms to combinatorial optimization problems.
+- Apply to design their own optimized algorithm and fuzzy sets for problem solving and decision making.
+- Mining the bulk of data present in the warehouse
+
+### ECS-452 Cloud Computing
+**Course Outcomes:**
+- Impart the knowledge of cloud computing and technologies, issues in cloud computing etc.
+- identify the architecture, infrastructure and delivery models of cloud computing
+- Apply suitable virtualization concept.
+- Choose the appropriate Programming Models and approach for Services
+- Address the core issues of cloud computing such as security, privacy and interoperability
+
+### ECS-453 Reliable Computing
+**Course Outcomes:**
+- Learn basic model of reliability and faults
+- Understand the principles behind reliability
+- Understand Hardware fault tolerance
+- Understand Software fault tolerance
+- Learn the programming tools in designing reliable systems
+
+### ECS-454 Software Project Management
+**Course Outcomes:**
+- Produce the quality product without defects.
+- Complete the task with better quality on time.
+- Format their process of modelling
+- Streamline their activities to yield better result
+- Manage the people and control the defects.
+
+### PCS-471 Machine Learning Lab
+**Course Outcomes:**
+- Make use of Data sets in implementing the machine learning algorithms
+- Understand the implementation procedures for the machine learning algorithms.
+- Design Java/Python programs for various Learning algorithms.
+- Apply appropriate data sets to the Machine Learning algorithms.
+- Identify and apply Machine Learning algorithms to solve real world problems.
+
+### PCS-472 Project-I
+**Course Outcomes:**
+- Take up investigative study in the broad field of Computer Science & Engineering, either fully theoretical/practical or involving both the theoretical and practical work
+- Take up project assigned by the Department on an individual basis or in a group under the guidance of a supervisor
+- Survey and study published literature on the assigned topic, identify the research gaps and work out a systematic approach to the problem related to the assigned topic
+- Conduct preliminary analysis, modeling, simulation and experiment
+- Prepare a report on the study conducted and make presentation before the Department
+
+### PCS-473 Industrial Training
+**Course Outcomes:**
+- Understand organizational issues and its impact on organization and employees.
+- Identify industrial problems and suggest possible solutions.
+- Relate, apply and adapt relevant knowledge, concepts and theories within an industrial organization, practice and ethics.
+- Apply technical knowledge in an industry to solve real world problems.
+- Demonstrate effective group communication, presentation, self-management and report writing skills.
+
+### TAH-473 Engineering Economics
+**Course Outcomes:**
+- CO-1 Helps to know the application of engineering to economics.
+- CO-2 The learning outcome for the students would be they get the actual difference between micro and macro economics.
+- CO-3 It gives students an introduction to the tools used by micro-economists and serves as a foundation to many economics courses that follow such as labor, financial and industrial economics.
+- CO-4 Provide the ability to use theories in analyzing economic phenomena for solving monetary problems.
+- CO-5 Helps in understanding the concept of banking operations in India.
+
+---
+
+## SEMESTER VIII
+
+### TCS-481 Digital Image Processing
+**Course Outcomes:**
+- Understanding the fundamentals of digital image processing.
+- Knowledge and understanding of image processing in spatial domain.
+- Familiar with concepts of digital image processing in Frequency domain.
+- Fundamentals of color image processing and Morphological Image Processing.
+- Knowledge and understanding of image Registration and image features.
+
+### ECS-461 Embedded Systems
+**Course Outcomes:**
+- Develop assembly language programs for 8051 and its applications in the field of information technology using different types of interfacing
+- Acquire knowledge on embedded systems basics and describe the architecture and operations of ARM processor
+- Develop skills in writing small programs for ARM processor
+- Apply different types of interfaces with interrupt handling mechanism
+- Understand the multiple process operating environments and use standard system call interfaces to monitor and control processes
+
+### ECS-462 Cyber Security
+**Course Outcomes:**
+- Relate and safeguard their organizations from the scenarios of passive and active attacks.
+- Understand the terminologies and vulnerabilities in the field of cyber security
+- Demonstrate the use of anti-malware tools for enhancing system network protection
+- Understand and analyze digital forensics with evidence
+- Understand the basic principles of Ethical Hackingalong with its techniques.
+
+### ECS-463 Information Theory and Coding
+**Course Outcomes:**
+- Measure and analyze the quantity of information associated to events or random variables.
+- Determine the limits of communications systems in terms of source and channel coding.
+- Examine linear block codes and the algebraic structures used in the construction and in the decoding of cyclic codes.
+- Calculate the error probability of a channel coding system with hard or soft decoding.
+- Describe the coding techniques used in composite codes like LDPC and turbo codes that can reach the channel capacity
+
+### ECS-464 Data Analytics
+**Course Outcomes:**
+- Appreciate the fundamentals and describe what Big Data Analytics is.
+- Understand the Big Data flow and apply necessary components to build a Big Data Analytics System.I.
+- Identify and successfully apply appropriate techniques and tools to solve Big Data problems.
+- Analyze the requirements for a Big Data Analytics System for departmental organizational requirements using Hadoop.
+- Understand Big Data ecosystem, specifically PIG and Hive.
+
+### PCS-481 Digital Image Processing Lab
+**Course Outcomes:**
+(Not explicitly listed with CO format, but course focuses on image processing practical applications)
+
+### PCS-482 Project-II
+**Course Outcomes:**
+- Extend further the investigative study taken up under Project-I, either fully theoretical/practical or involving both the theoretical and practical work under the guidance of a supervisor from the Department alone or jointly with a supervisor drawn from R&D laboratory/industry and obtain a good training in R&D work and technical leadership
+- Review and finalize the approach to the problem relating to the assigned topic and prepare an action plan for preparing conducting the investigation and assign responsibilities for team work
+- Conduct detailed analysis, modeling, simulation, design, problem solving or experiment as needed on the assigned topic
+- Develop product/process, test, draw results and conclusions, and give direction for future research and prepare a paper for conference presentation/publication in journals, if possible
+- Prepare a project report in the standard format for being evaluated by the Department and make final presentation on the project
+
+### PCS-483 Seminar
+**Course Outcomes:**
+- Express themselves fluently and appropriately in social and professional contexts
+- Develop the sub-skills required for paper presentation and group discussions
+- Acquire the soft skills and interpersonal skills which will help them in their workplace needed for these functions
+- Collect materials from books, Internet, journals, and newspapers for the seminar theme and prepare a short seminar report
+- Make presentation on the topic, answer the queries/questions that come forward, clarify and supplement if necessary, and submit a report
