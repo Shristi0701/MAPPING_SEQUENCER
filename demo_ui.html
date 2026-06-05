@@ -855,15 +855,15 @@
     </div>
     <div class="hero-right">
       <div class="metric-card">
-        <span class="metric-val">45.7%</span>
+        <span class="metric-val" id="hero-p1">25.1%</span>
         <span class="metric-label">Precision@1</span>
       </div>
       <div class="metric-card">
-        <span class="metric-val">77.1%</span>
+        <span class="metric-val" id="hero-p3">65.4%</span>
         <span class="metric-label">Precision@3</span>
       </div>
       <div class="metric-card">
-        <span class="metric-val">63</span>
+        <span class="metric-val" id="hero-cos">603</span>
         <span class="metric-label">COs Mapped</span>
       </div>
       <div class="metric-card">
@@ -1517,6 +1517,11 @@ function renderEvaluation(data) {
   document.getElementById('ev-p3').textContent    = data.precision_at_3_pct;
   document.getElementById('ev-total').textContent = data.total_pairs_evaluated;
   document.getElementById('ev-hits3').textContent = `${data.hits_at_3}/${data.total_pairs_evaluated}`;
+
+  // Update Hero section too
+  if (document.getElementById('hero-p1')) document.getElementById('hero-p1').textContent = data.precision_at_1_pct;
+  if (document.getElementById('hero-p3')) document.getElementById('hero-p3').textContent = data.precision_at_3_pct;
+  if (document.getElementById('hero-cos')) document.getElementById('hero-cos').textContent = data.total_pairs_evaluated;
 
   setTimeout(() => {
     document.getElementById('pb1').style.width    = data.precision_at_1_pct;

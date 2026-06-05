@@ -2,8 +2,15 @@ from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
 from mapping.classifier import classifier_score, get_po_embedding
 import numpy as np
+import os
 
-model = SentenceTransformer("all-mpnet-base-v2")
+_model_path = os.path.join(os.path.dirname(__file__), "finetuned_mpnet")
+if os.path.exists(_model_path):
+    print(f"Loading custom fine-tuned model from: {_model_path}")
+    model = SentenceTransformer(_model_path)
+else:
+    print("Loading generic model: all-mpnet-base-v2")
+    model = SentenceTransformer("all-mpnet-base-v2")
 
 def preprocess_co(text):
     lower = text.lower()
